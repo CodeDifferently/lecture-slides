@@ -24,7 +24,7 @@
 ```
 
 
-
+-
 ### Naming the Table
 * Defining the name of the table is done using the <caption> opening and closing tags
 * The <caption> tag must be inserted immediately after the <table> tags
