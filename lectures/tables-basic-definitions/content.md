@@ -100,6 +100,6 @@
 -
 -
 ## Lecture Summary
-* Defining a table using the <table> opening and closing tags and using the <caption> tags to name the table
-* Rows are created with the <tr> tags
-* Columns are created with the <td> tags and are named using the <th> tags
+* Defining a table using the `<table>` opening and closing tags and using the `<caption>` tags to name the table
+* Rows are created with the `<tr>` tags
+* Columns are created with the `<td>` tags and are named using the `<th>` tags
