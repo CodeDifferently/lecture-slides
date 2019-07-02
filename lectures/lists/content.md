@@ -53,7 +53,7 @@
 -
 ### Ordered Lists
 * An ordered list begins with the opening tag '<ol>' and ends with the closing tag '</ol>'
-* List items will be by default marked with numbers and will be within the  list item opening and closing tags '<li></li>'
+* List items will be by default marked with numbers and will be within the  list item opening and closing tags `'<li></li>'`
 
 ```HTML
   <ol>
@@ -62,6 +62,7 @@
     <li>Capri Sun</li>
   </ol>
 ```
+
 -
 #### Styling of the Item Markers
 * The type attribute of the '<ol>' tag, specifies the type of the list item marker
