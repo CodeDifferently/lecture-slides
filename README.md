@@ -13,3 +13,8 @@
 * The application can be ran by executing the following command from the root directory of the project.
   * `python -m SimpleHTTPServer 8080`
 * After running the application, navigate to `localhost:8080` from a browser to view the slides.
+* The application can be killed by executing the following command:
+
+```
+kill -kill `lsof -t -i tcp:3000`
+```
