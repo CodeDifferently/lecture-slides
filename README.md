@@ -16,5 +16,5 @@
 * The application can be killed by executing the following command:
 
 ```
-kill -kill `lsof -t -i tcp:3000`
+kill -kill `lsof -t -i tcp:8080`
 ```
