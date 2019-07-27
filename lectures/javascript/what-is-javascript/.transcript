@@ -9,6 +9,15 @@ Well, to answer that, let's first begin by answering these two questions first:
 
 
 
+
+
+
+
+
+
+
+
+
 # Slide 3
 So, what is the internet?
 It's a set of interconnected devices.
@@ -19,7 +28,7 @@ It enforces standard communication protocols
 
 
 
-# Slide 4
+# Slide 3/1
 It is the product of client-server relationships
 A client is a requester of information.
     Typically, we think of the client as the _surfer_ or _browser_ of the internet.
@@ -33,4 +42,43 @@ This dynamic is the innerworkings of the entire internet.
 
 
 
-# Slide 5
+# Slide 3/2
+To view a webpage, a client must first send a request to a server.
+    This means any time you click a link, you are actually sending a message to a server asking to view an HTML document.
+    The message you are sending is called a request.
+        And the reason we call it such, is because there is no guarantee that you will be given the information being requested.
+    These requests are sent to the server in a language called HTTP.
+        HTTP is specifically designed to tell web servers and browsers what action to take in response to various commands.
+
+
+
+
+
+
+# Slide 3/3
+The server can be thought of as the provider, servicer, or most acceptably, server of information
+The server awaits requests from a client.
+    We call this waiting process "listening".
+Requests are responded to in the form of HTTP messages and subsequently a viewable HTML document, also known as a "webpage".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Slide 4
+What is HTML
