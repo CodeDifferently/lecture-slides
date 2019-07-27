@@ -3,7 +3,7 @@
 ### Team Building
 * [Ice Breaker](lectures/html-and-css/icebreaker/lecture.html)
 
-### HTML
+### HTML and CSS
 * [What is html?](lectures/html-and-css/what-is-html/lecture.html)
 * [HTML Document Structure](lectures/html-and-css/html-document-structure/lecture.html)
 * [Anatomy Of Html Tags](lectures/html-and-css/anatomy-of-html-tags/lecture.html)
@@ -12,10 +12,8 @@
 * [Tables - Basic Definitions](lectures/html-and-css/tables-basic-definitions/lecture.html)
 * [Tables - Enhanced Definitions](lectures/html-and-css/tables-enhanced-definitions/lecture.html)
 * [Forms](lectures/html-and-css/forms/lecture.html)
-* [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
-
-### CSS and Styling
 * [CSS and Styling](lectures/html-and-css/css-and-styling-part-one/lecture.html)
+* [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
 
 
 ### Wordpress
@@ -25,6 +23,11 @@
 
 
 ### JavaScript
+* [Sample](lectures/javascript/subtopic-template/lecture.html)
+* [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
+
+### PHP
+* [Sample](lectures/php/subtopic-template/lecture.html)
 
 
 ### Templates
