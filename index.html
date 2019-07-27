@@ -1,41 +1,46 @@
-<!DOCTYPE html>
-<html>
-<head><title>Index of lectures</title>
-	<style>
-	a {
-		display: block;
-	}
-	section {
-		padding-bottom: 1em;
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Code Differently Lecture Template</title>
+		<meta name="description" content="A lecture template for reveal.js-based CodeDifferently Lessons">
+		<meta name="author" content="CodeDifferently">
+	</head>
 
-	}
-	</style>
-</head>
-<body>
-	<h1>CodeDifferently Lecture Slides</h1>
-	<h2>Links to Lesson Slides by Category</h2>
-	<section>
-		<strong>CodeDifferently Lecture Slides</strong>
-		<ol>
-			<li><a href="lectures/html-and-css/template/lecture.html">Lecture template</li></a>
-			<li><a href="lectures/html-and-css/icebreaker/lecture.html">Ice Breaker</li></a>
-			<li><a href="lectures/html-and-css/what-is-html/lecture.html">What is html?</li></a>
-			<li><a href="lectures/html-and-css/html-document-structure/lecture.html">HTML Document Structure</li></a>
-			<li><a href="lectures/html-and-css/html-content-models/lecture.html">HTML Content Models</li></a>
-			<li><a href="lectures/html-and-css/tables-basic-definitions/lecture.html">Tables - Basic Definitions</li></a>
-			<li><a href="lectures/html-and-css/tables-enhanced-definitions/lecture.html">Tables - Enhanced Definitions</li></a>
-			<li><a href="lectures/html-and-css/lists/lecture.html">Lists</li></a>
-			<li><a href="lectures/html-and-css/anatomy-of-html-tags/lecture.html">Anatomy Of Html Tags</li></a>
-			<li><a href="lectures/html-and-css/content-models/lecture.html">Html Content Models</li></a>
-			<li><a href="lectures/html-and-css/beat-maker-lecture/lecture.html">Beat Maker Lecture</li></a>
-			<li><a href="lectures/html-and-css/wordpress/theme-development-part1/lecture.html">Wordpress Theme Development</li></a>
-			<li><a href="lectures/html-and-css/css-and-styling-part-one/lecture.html">CSS and Styling</li></a>
-			<li><a href="lecture/forms.html">Forms</li></a>
-		</ol>
-	</section>
 
-	<!-- Keep this at the bottom of the page for easy reference -->
-	<hr>
-	<hr>
-</body>
+	<body>
+		<div class="reveal">
+			 <!-- Modify the `content.md` file to edit appearance of `index.html`  -->
+			<section data-markdown="./content.md"  
+				data-separator="^-\n-\n"
+				data-separator-vertical="^-\n"
+				data-separator-notes="^Note:"
+				data-charset="utf-8">
+			</section>
+		</div>
+
+
+
+
+
+
+
+
+		<!-- ========================================================= -->
+		<!-- ========================================================= -->
+		<!-- ------------------ Dependencies ------------------------- -->
+		<script src="./resources/lib/js/head.min.js"></script>
+		<script src="./resources/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				dependencies: [
+					{ src: './resources/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: './resources/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				]
+			});
+		</script>
+		<!-- ========================================================= -->
+		<!-- ========================================================= -->
+		<!-- --------------------------------------------------------- -->
+	</body>
 </html>
