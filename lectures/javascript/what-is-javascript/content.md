@@ -75,6 +75,7 @@
 #### Manuscript Revision Instructions
 * Manuscript mark-ups use symbols which _encapsulate_ a section of a document to annotate how the section should be handled.
 * Encaspsulating sections allows structure to be enforced on document _as a group_.
+* [Click here](./proofread-marks.png) to view proofreed-mark symbols.
 
 
 
@@ -117,7 +118,6 @@
 #### What is programming?
 * a vocabulary and set of grammatical rules for instructing a device to perform specific tasks.
 * is used to implement _algorithms_
-* Discussion point 3A.2
 * Discussion point 3A.3
 
 
