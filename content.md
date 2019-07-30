@@ -17,9 +17,9 @@
 
 
 ### Wordpress
-* [Theme Development - Part 1](lectures/html-and-css/wordpress/theme-development-part1/lecture.html)
-* [Theme Development - Part 2](lectures/html-and-css/wordpress/theme-development-part1/lecture.html)
-* [Theme Development - Part 3](lectures/html-and-css/wordpress/theme-development-part1/lecture.html)
+* [Theme Development - Part 1](lectures/wordpress/theme-development-part1/lecture.html)
+* [Theme Development - Part 2](lectures/wordpress/theme-development-part1/lecture.html)
+* [Theme Development - Part 3](lectures/wordpress/theme-development-part1/lecture.html)
 
 
 ### JavaScript
@@ -32,4 +32,3 @@
 
 ### Templates
 * [General Lecture template](lectures/html-and-css/template/lecture.html)
-
