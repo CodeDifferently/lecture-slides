@@ -14,6 +14,7 @@
 * [Forms](lectures/html-and-css/forms/lecture.html)
 * [CSS and Styling](lectures/html-and-css/css-and-styling-part-one/lecture.html)
 * [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
+* [ Freire Javascript Intro](lectures/javascript/what-is-javascript-and-phaser-intro)
 
 
 ### Wordpress
