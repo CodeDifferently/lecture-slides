@@ -58,9 +58,11 @@
 
 -
 ### What is a _header_?
+* Not to be confused with the `<head>` element!
 * The `<header>` element represents a container for introductory content or a set of navigational links.
 * A `<header>` element typically contains:
     * one or more heading elements (`<h1>` - `<h6>`)
+    * navigation bar
     * logo or icon
     * authorship information
 * You can have several `<header>` elements in one document.
@@ -68,11 +70,11 @@
 -
 ### quick tips
 * Use proper `DOCTYPE`
-* Add a call to `body_class()` to call to allow Wordpress to add its own classes to the body.
+* Add a call to `body_class()` to allow Wordpress to add its own classes to the body.
 * Add a call to `wp_head()` before the closing `</head>` tag.
   * Plugins use this _action hook_ to add their own scripts, stylesheets, and other functionality.
 * Do not link the theme stylesheets in the Header template.
-  * Use the `wp_enqueue_scripts` action hook in a theme function insGinger Aled.
+  * Use the `wp_enqueue_scripts` action hook in a theme function.
 
 
 -
