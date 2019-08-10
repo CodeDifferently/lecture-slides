@@ -1,7 +1,7 @@
 # Code Differently Slide Deck
 
 ### Team Building
-* [Ice Breaker](lectures/html-and-css/icebreaker/lecture.html)
+* [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
 
 ### HTML and CSS
 * [What is html?](lectures/html-and-css/what-is-html/lecture.html)
@@ -14,7 +14,6 @@
 * [Forms](lectures/html-and-css/forms/lecture.html)
 * [CSS and Styling](lectures/html-and-css/css-and-styling-part-one/lecture.html)
 * [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
-* [ Freire Javascript Intro](lectures/javascript/what-is-javascript-and-phaser-intro)
 
 
 ### Wordpress
@@ -28,8 +27,8 @@
 
 
 ### JavaScript
-* [Sample](lectures/javascript/subtopic-template/lecture.html)
 * [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
+* [Intro to Javascript](lectures/javascript/what-is-phaser/lecture.html)
 
 ### PHP
 * [Sample](lectures/php/subtopic-template/lecture.html)
