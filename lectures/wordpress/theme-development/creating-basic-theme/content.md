@@ -23,11 +23,11 @@
 -
 ### Creating an empty theme
 1. Navigate to the `wp-content` directory from the `wordpress` root.
-* Create a new folder whose name is the new theme name (i.e. `My Theme`)
-* Create an `index.php` f ile in the `My Theme` root.
-* Create `style.css` file in the `My Theme` root
+* Create a new folder whose name is the new theme name (i.e. `my-theme`)
+* Create an `index.php` f ile in the `my-theme` root.
+* Create `style.css` file in the `my-theme` root
 * Navigate to `http://localhost:8888/wordpress/wp-admin/themes.php`
-	* `My Theme` becomes an available theme
+	* `my-theme` becomes an available theme
 
 
 
@@ -37,7 +37,7 @@
 -
 -
 ### Creating base theme assets
-* The following files should be created in the `My Theme` root directory.
+* The following files should be created in the `my-theme` root directory.
   * `archive.php`
   * `footer.php`
   * `front-page.php`
