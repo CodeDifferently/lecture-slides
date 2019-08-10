@@ -18,9 +18,13 @@
 
 
 ### Wordpress
-* [Theme Development - Part 1](lectures/wordpress/theme-development-part1/lecture.html)
-* [Theme Development - Part 2](lectures/wordpress/theme-development-part1/lecture.html)
-* [Theme Development - Part 3](lectures/wordpress/theme-development-part1/lecture.html)
+* **The Fundamentals**
+    1. [What is wordpress?](lectures/wordpress/what-is-wordpress/lecture.html)
+
+* **Theme Development**
+    1. [Creating Basic Theme](lectures/wordpress/theme-development/creating-basic-theme/lecture.html)
+    2. [Page-Template Hierarchy](lectures/wordpress/theme-development/page-template-hierarchy/lecture.html)
+    3. [Creating Page Templates](lectures/wordpress/theme-development/creating-page-templates/lecture.html)
 
 
 ### JavaScript

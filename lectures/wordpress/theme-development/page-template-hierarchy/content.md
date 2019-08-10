@@ -1,4 +1,6 @@
-# Title of Lecture
+# Page Template Hierarchy
+
+
 
 
 
@@ -10,9 +12,13 @@
 -
 -
 ## Lecture Overview
-* Topic 1
-* Topic 2
-* Topic 3
+* Wordpress looks for template files in the following order:
+    1. Page Template
+    2. `page-{slug}.php`
+    3. `page-{id}.php`
+    4. `page.php`
+    5. `singular.php`
+    6. `index.php`
 
 
 
@@ -23,17 +29,16 @@
 
 
 
+
+
+
+-
+### Page Template
+* If the page has a custom tempalte assigned, WordPress uses that file.
 
 
 -
--
-### Topic 1
-* Sub-topic 1A
-* Sub-topic 1B
-* Sub-topic 1C
-
--
-#### Sub-topic 1A
+### `page-{slug}.php`
 * Discussion point 1A.1
 * Discussion point 1A.2
 * Discussion point 1A.3
