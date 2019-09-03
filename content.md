@@ -1,5 +1,13 @@
 # Code Differently Slide Deck
 
+### Cloud Infrastrcuture
+
+#### AWS
+* [Hosting a static website from an S3 bucket](lectures/cloud/aws/s3-hosting-static-html/lecture.html)
+
+#### Heroku
+* [Hosting a static website from Heroku](lectures/cloud/heroku/hosting-static-html/lecture.html)
+
 ### Team Building
 * [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
 
