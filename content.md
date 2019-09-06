@@ -52,6 +52,7 @@
     * [control flow](lectures/java/fundamental-programming-structures/control-flow/lecture.html)
     * [input and output](lectures/java/fundamental-programming-structures/input-and-output/lecture.html)
     * [types and operators](lectures/java/fundamental-programming-structures/types-and-operators/lecture.html)
+    * [exceptions, assertions, and logging](lectures/java/fundamental-programming-structures/exceptions-assertions-logging/lecture.html)
 
 * **Intro to Object Oriented Programming**  
     * [defining a class](lectures/java/intro-to-oop/defining-a-class/lecture.html)
