@@ -1,26 +1,5 @@
 # Code Differently Slide Deck
 
-### Cloud Infrastrcuture
-
-#### AWS
-* [Hosting a static website from an S3 bucket](lectures/cloud/aws/s3-hosting-static-html/lecture.html)
-
-#### Heroku
-* [Hosting a static website from Heroku](lectures/cloud/heroku/hosting-static-html/lecture.html)
-
-
-<hr><hr><hr>
-
-### Team Building
-* [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
-
-
-
-<hr><hr><hr>
-
-
-
-
 ### HTML and CSS
 * [What is html?](lectures/html-and-css/what-is-html/lecture.html)
 * [HTML Document Structure](lectures/html-and-css/html-document-structure/lecture.html)
@@ -48,13 +27,13 @@
 ### Java
 
 * **Fundamental Programming Structures**
-    * [arrays](lectures/java/fundamental-programming-structures/arrays/lecture.html)
-    * [control flow](lectures/java/fundamental-programming-structures/control-flow/lecture.html)
-    * [input and output](lectures/java/fundamental-programming-structures/input-and-output/lecture.html)
     * [types and operators](lectures/java/fundamental-programming-structures/types-and-operators/lecture.html)
+    * [control flow](lectures/java/fundamental-programming-structures/control-flow/lecture.html)
+    * [arrays](lectures/java/fundamental-programming-structures/arrays/lecture.html)
+    * [input and output](lectures/java/fundamental-programming-structures/input-and-output/lecture.html)
     * [exceptions, assertions, and logging](lectures/java/fundamental-programming-structures/exceptions-assertions-logging/lecture.html)
 
-* **Intro to Object Oriented Programming**  
+* **Intro to Object Oriented Programming**
     * [defining a class](lectures/java/intro-to-oop/defining-a-class/lecture.html)
     * [four pillars](lectures/java/intro-to-oop/four-pillars/lecture.html)
     * [interfaces](lectures/java/intro-to-oop/interfaces/lecture.html)
@@ -115,6 +94,41 @@
     1. [Creating Basic Theme](lectures/wordpress/theme-development/creating-basic-theme/lecture.html)
     2. [Page-Template Hierarchy](lectures/wordpress/theme-development/page-template-hierarchy/lecture.html)
     3. [Creating Page Templates](lectures/wordpress/theme-development/creating-page-templates/lecture.html)
+
+
+
+
+
+
+
+
+
+
+### Cloud Infrastrcuture
+
+#### AWS
+* [Hosting a static website from an S3 bucket](lectures/cloud/aws/s3-hosting-static-html/lecture.html)
+
+#### Heroku
+* [Hosting a static website from Heroku](lectures/cloud/heroku/hosting-static-html/lecture.html)
+
+
+
+
+
+
+
+
+<hr><hr><hr>
+
+### Team Building
+* [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
+
+
+
+
+
+
 
 
 ### Templates
