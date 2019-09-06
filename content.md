@@ -8,8 +8,15 @@
 #### Heroku
 * [Hosting a static website from Heroku](lectures/cloud/heroku/hosting-static-html/lecture.html)
 
+
+<hr><hr><hr>
+
 ### Team Building
 * [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
+
+
+
+<hr><hr><hr>
 
 ### HTML and CSS
 * [What is html?](lectures/html-and-css/what-is-html/lecture.html)
@@ -23,6 +30,28 @@
 * [CSS and Styling](lectures/html-and-css/css-and-styling-part-one/lecture.html)
 * [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
 
+### JavaScript
+* [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
+* [Intro to Javascript](lectures/javascript/what-is-phaser/lecture.html)
+
+
+
+### Java
+* **Intro to Design Principles**
+    * [the SOLID principles](lectures/java/design-principles/solid-principles/lecture.html)
+* **Intro to Object Oriented Programming**  
+    * [defining a class](lectures/java/intro-to-oop/defining-a-class/lecture.html)
+    * [four pillars](lectures/java/intro-to-oop/four-pillars/lecture.html)
+    * [interfaces](lectures/java/intro-to-oop/interfaces/lecture.html)
+    * [abstract classes](lectures/java/intro-to-oop/abstract-classes/lecture.html)
+    * [object relations](lectures/java/intro-to-oop/object-relations/lecture.html)
+
+
+### PHP
+* [Sample](lectures/php/subtopic-template/lecture.html)
+
+
+<hr><hr><hr>
 
 ### Wordpress
 * **The Fundamentals**
@@ -32,14 +61,6 @@
     1. [Creating Basic Theme](lectures/wordpress/theme-development/creating-basic-theme/lecture.html)
     2. [Page-Template Hierarchy](lectures/wordpress/theme-development/page-template-hierarchy/lecture.html)
     3. [Creating Page Templates](lectures/wordpress/theme-development/creating-page-templates/lecture.html)
-
-
-### JavaScript
-* [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
-* [Intro to Javascript](lectures/javascript/what-is-phaser/lecture.html)
-
-### PHP
-* [Sample](lectures/php/subtopic-template/lecture.html)
 
 
 ### Templates
