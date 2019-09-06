@@ -34,12 +34,12 @@
     * [exceptions, assertions, and logging](lectures/java/fundamental-programming-structures/exceptions-assertions-logging/lecture.html)
 
 * **Intro to Object Oriented Programming**
-    * [defining a class](lectures/java/intro-to-oop/defining-a-class/lecture.html)
-    * [four pillars](lectures/java/intro-to-oop/four-pillars/lecture.html)
-    * [interfaces](lectures/java/intro-to-oop/interfaces/lecture.html)
-    * [abstract classes](lectures/java/intro-to-oop/abstract-classes/lecture.html)
-    * [object relations](lectures/java/intro-to-oop/object-relations/lecture.html)
-    * [StringBuilder and regular expressions](lectures/java/intro-to-oop/stringbuilder-and-regex/lecture.html)
+    * [defining a class](lectures/java/object-oriented-programming/defining-a-class/lecture.html)
+    * [four pillars](lectures/java/object-oriented-programming/four-pillars/lecture.html)
+    * [interfaces](lectures/java/object-oriented-programming/interfaces/lecture.html)
+    * [abstract classes](lectures/java/object-oriented-programming/abstract-classes/lecture.html)
+    * [object relations](lectures/java/object-oriented-programming/object-relations/lecture.html)
+    * [StringBuilder and regular expressions](lectures/java/object-oriented-programming/stringbuilder-and-regex/lecture.html)
 
 * **Intro to Collections**
     * [brief overview](lectures/java/collections/brief-overview/lecture.html)

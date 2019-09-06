@@ -20,8 +20,8 @@
 -
 ### How does it affect its children classes?
 * An abstract class does a few things for the inheriting subclass:
-  1. Define methods which can be used by the inheriting subclass.
-  2. Define abstract methods which the inheriting subclass must implement.
+  1. _Define_ methods which can be used by the inheriting subclass.
+  2. _Declare_ abstract methods which the inheriting subclass must implement.
   3. Provide a common interface which allows the subclass to be interchanged with all other subclasses.
 
 
