@@ -70,7 +70,6 @@
 -
 ### Social Tactics
 * Importance of collaboration; the Amigo-boat paradigm
-* Importance of 
 * How to express "I do not know"
 
 -
@@ -102,7 +101,5 @@
 
 -
 -
-## Lecture Summary
-* Topic 1 Summary
-* Topic 2 Summary
-* Topic 3 Summary
+## Whats next?
+* Let us begin considering some fundamental programming principles
