@@ -1,5 +1,12 @@
 # Code Differently Slide Deck
 
+
+### Interview Preparation
+* [Day 1](lectures/interview-preparation/day1/lecture.html)
+
+
+
+
 ### HTML and CSS
 * [What is html?](lectures/html-and-css/what-is-html/lecture.html)
 * [HTML Document Structure](lectures/html-and-css/html-document-structure/lecture.html)
