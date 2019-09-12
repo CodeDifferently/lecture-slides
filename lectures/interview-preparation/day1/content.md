@@ -102,4 +102,7 @@
 -
 -
 ## Whats next?
-* Let us begin considering some fundamental programming principles
+* Let us begin considering how to answer logic questions in an interview
+    * [zombie apocalypse scenario]()
+    * [isolate heaviest item]()
+    * [clock hand angles]()
