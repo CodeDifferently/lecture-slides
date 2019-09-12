@@ -28,12 +28,12 @@
 -
 -
 ### Requirement Gathering
-* Asking questions about the problem
-* Rephrase the question in your own words
+* Orient questions around a single _feature_
+* Ensure each _high-level requirement_ has a _list_ of questions associated with it
 * Sub-topic 1C
 
 -
-#### Sub-topic 1A
+#### _Feature_ Oriented Questions
 * Discussion point 1A.1
 * Discussion point 1A.2
 * Discussion point 1A.3
