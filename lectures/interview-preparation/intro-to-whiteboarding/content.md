@@ -14,6 +14,15 @@
 * Pictorial Structures
 * Whiteboarding
 
+-
+-
+## Steps
+1. Understand language
+2. Identify knowns
+    * Objects
+    * Behaviors (operations)
+3. Deduct or induct object behaviors
+
 
 
 
