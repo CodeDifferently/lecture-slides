@@ -6,5 +6,16 @@
     * 2 indistinguishable robot-guards
         * One of the guards always tells the truth.
         * One of the guards always tells lies.
-* You must enter one of these doors, but you can only ask a single question to a single guard.
+* You must enter one of these doors, but you can only ask a single question, containg no _conjunctions_, to a single guard.
 * **What question must you ask to ensure that you are lead to certain freedom**?
+
+
+-
+## Helping Verbs
+* is, was, were
+* has, have
+* would, will
+
+-
+## Predicates
+* part of speech that says what a subject is _doing_.

@@ -2,7 +2,8 @@
 
 
 ### Interview Preparation
-* [Day 1](lectures/interview-preparation/day1/lecture.html)
+* [Day 1](lectures/interview-preparation/white-boarding/day1/lecture.html)
+* [How to Whiteboard](lectures/interview-preparation/white-boarding/how-to-whiteboard/lecture.html)
 
 
 
