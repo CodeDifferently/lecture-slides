@@ -5,6 +5,9 @@
 * [Day 1](lectures/interview-preparation/white-boarding/day1/lecture.html)
 * [How to Whiteboard](lectures/interview-preparation/white-boarding/how-to-whiteboard/lecture.html)
 
+#### Whiteboard Problems
+* [How to Whiteboard](lectures/interview-preparation/white-boarding/how-to-whiteboard/lecture.html)
+
 
 
 

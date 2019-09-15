@@ -24,7 +24,7 @@
 
 -
 ## Expectations
-* What do you expect to get from these sessions?
+* What do you _expect_ to get from these sessions?
 * What do you _hope_ to get from these sessions?
 
 
