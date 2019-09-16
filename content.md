@@ -6,7 +6,7 @@
 * [How to Whiteboard](lectures/interview-preparation/how-to-whiteboard/lecture.html)
 
 * **Whiteboard Problems**
-    * [(dis)honest guards](lectures/interview-preparation/whiteboard-problems/(dis)honest-guards/lecture.html)
+    * [(dis)honest guards](lectures/interview-preparation/whiteboard-problems/door-to-freedom/lecture.html)
     * [clock hands](lectures/interview-preparation/whiteboard-problems/clock-hands/lecture.html)
     * [horseracing](lectures/interview-preparation/whiteboard-problems/horseracing/lecture.html)
     * [isolate heaviest](lectures/interview-preparation/whiteboard-problems/isolate-heaviest/lecture.html)
