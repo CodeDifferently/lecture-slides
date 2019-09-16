@@ -2,11 +2,18 @@
 
 
 ### Interview Preparation
-* [Day 1](lectures/interview-preparation/white-boarding/day1/lecture.html)
-* [How to Whiteboard](lectures/interview-preparation/white-boarding/how-to-whiteboard/lecture.html)
+* [Day 1](lectures/interview-preparation/intro-to-interview-prep/lecture.html)
+* [How to Whiteboard](lectures/interview-preparation/how-to-whiteboard/lecture.html)
 
-#### Whiteboard Problems
-* [How to Whiteboard](lectures/interview-preparation/white-boarding/how-to-whiteboard/lecture.html)
+* **Whiteboard Problems**
+    * [(dis)honest guards](lectures/interview-preparation/whiteboard-problems/(dis)honest-guards/lecture.html)
+    * [clock hands](lectures/interview-preparation/whiteboard-problems/clock-hands/lecture.html)
+    * [horseracing](lectures/interview-preparation/whiteboard-problems/horseracing/lecture.html)
+    * [isolate heaviest](lectures/interview-preparation/whiteboard-problems/isolate-heaviest/lecture.html)
+    * [measuring cups](lectures/interview-preparation/whiteboard-problems/measuring-cups/lecture.html)
+    * [transporting lions](lectures/interview-preparation/whiteboard-problems/transporting-lions/lecture.html)
+    * [tree planting](lectures/interview-preparation/whiteboard-problems/tree-planting/lecture.html)
+    * [zombie-apocalypse](lectures/interview-preparation/whiteboard-problems/zombie-apocalypse/lecture.html)
 
 
 
