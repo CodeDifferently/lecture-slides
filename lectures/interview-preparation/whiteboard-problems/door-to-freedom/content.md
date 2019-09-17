@@ -78,6 +78,8 @@
     * He `is baffled`.
     * They `were asking`.
     * He `has answered`.
+<br>
+<img src="./subject-predicate.jpg">
 
 
 
@@ -101,7 +103,7 @@
     * Will she `be running` around the neighborhood she `is living` in?
     * Could she `be telling the truth` about the things she `is saying`?
     * Did she `go to the store` where food `is found`?
-    * If the light `is green`, will the car `accelerate`?
+    * If the light `is green`, `will` the car `accelerate`?
 
 
 -
@@ -130,14 +132,14 @@ what would the other guard say?"
 
 -
 ## Both Responses
-* In both cases, the information being communicated in a lie.
-* A lie about the truth, or the truth about a lie is ultimately just lie.
+* In both cases, the information being communicated is a lie.
+* A lie about the truth, or the truth about a lie is ultimately just a lie.
 
 
 -
 ## Conjecture
-* Therefore, whichever door they say the other one would select, must be the opposite door fo what you should select.
+* Therefore, whichever door they say the other one would select, must be the opposite door of what you should select.
 * The truther would say "The liar would tell you to take the left door to freedom"
     * Which means you should take the right
-* The lair would say "The truther would tell you to take the left door to freedom"
+* The liar would say "The truther would tell you to take the left door to freedom"
     * Which also means you should take the right door.
