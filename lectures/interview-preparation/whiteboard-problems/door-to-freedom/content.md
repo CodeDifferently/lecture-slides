@@ -26,6 +26,10 @@
         * `Am`, `is`, `are`, `was` `were`, `being`, `been`, `be`
         * `Have`, `has`, `had`, `do`, `does`, `did`, `will`, `would`, `shall`, `should`.
         * `may`, `might`, `must`, `can`, `could`
+
+
+-
+## Begin Solving
 * **What question must you ask to ensure that you are lead to certain freedom**?
 
 
@@ -57,20 +61,83 @@
 ## Helping Verbs
 * A _helping verb_ is a verb that is used to help better describe another verb.
 * A _helping verb_ is an _inflected form_ of the phrase `to have` or `to be`
-* An _form_ of _inflection_ of a verb is dependent on the _tense_
+* The _form_ of _inflection_ of a verb is dependent on the _tense_ of the verb.
     * `past tense` - He _rowed_ the boat.
     * `past participle` - He _has rowed_ the boat.
     * `present participle` -  He _is rowing_ the boat.
 
 
+
+
+
+-
 -
 ## Predicates
 * part of speech that says what a subject _is doing_.
-    * We _are questioning_.
-    * He _is baffled_.
-    * They _were asking_.
-    * He _has answered_.
+    * We `are questioning`.
+    * He `is baffled`.
+    * They `were asking`.
+    * He `has answered`.
+
 
 
 -
-## Subject
+## Predicates in Programming
+* Any _function_, _method_, or _operation_ that is prefixed with a _helping verb_ implies a `true` or `false` _return type_.
+* Consider the implications of the namings of the following operations:
+    * `isFreedom()`
+    * `hasLied()`
+    * `canTellTheTruth()`
+    * `wasCorrectDoor()`
+
+
+
+
+
+-
+## Nesting Predicates
+* A predicate can be _nested_ in another predicate to make a single complete sentence without run-on.
+* Consider how much _truth_ can be derived from this single question:
+    * Will she `be running` around the neighborhood she `is living` in?
+    * Could she `be telling the truth` about the things she `is saying`?
+    * Did she `go to the store` where food `is found`?
+    * If the light `is green`, will the car `accelerate`?
+
+
+-
+-
+# Solution
+
+
+-
+## Question to Freedom
+
+```
+"If I were to ask the other guard,
+    'Does the right door lead to freedom?'
+what would the other guard say?"
+```
+
+
+
+-
+## Each Respective Reponse
+* If you ask the liar what the truther would say, then the liar will lie about it and make it a lie.
+* If you ask the truther what the liar would say, then the truther will tell the truth about the liar; making their response a lie anyway.
+
+
+
+
+-
+## Both Responses
+* In both cases, the information being communicated in a lie.
+* A lie about the truth, or the truth about a lie is ultimately just lie.
+
+
+-
+## Conjecture
+* Therefore, whichever door they say the other one would select, must be the opposite door fo what you should select.
+* The truther would say "The liar would tell you to take the left door to freedom"
+    * Which means you should take the right
+* The lair would say "The truther would tell you to take the left door to freedom"
+    * Which also means you should take the right door.
