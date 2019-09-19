@@ -99,11 +99,21 @@
 -
 ## Nesting Predicates
 * A predicate can be _nested_ in another predicate to make a single complete sentence without run-on.
-* Consider how much _truth_ can be derived from this single question:
-    * Will she `be running` around the neighborhood she `is living` in?
-    * Could she `be telling the truth` about the things she `is saying`?
-    * Did she `go to the store` where food `is found`?
-    * If the light `is green`, `will` the car `accelerate`?
+* Consider how much _truth_ can be derived from each of these single questions:
+    * Will Peter `be running` around the park Brian `is camping` in if Stewie `is going` to the store?
+    * Could Martin `be telling` the truth about the things Luther `was saying` about the `dialogue had` by Malcolm?
+    * If you `were to ask` your mother `should you drive` to the grocery store, `would she say` yes?
+
+
+
+
+
+
+
+
+
+
+
 
 
 -
@@ -134,6 +144,9 @@ what would the other guard say?"
 ## Both Responses
 * In both cases, the information being communicated is a lie.
 * A lie about the truth, or the truth about a lie is ultimately just a lie.
+
+
+
 
 
 -
