@@ -24,6 +24,7 @@
     * Objects
     * Behaviors (operations)
 3. Deduct or induct object behaviors
+4. Conjecture / Conclusion
 
 
 

@@ -8,7 +8,7 @@
     * 2 indistinguishable doors
         * One of the doors will lead you to certain freedom.
         * One of the doors will lead you to certain doom.
-    * 2 indistinguishable robot-guards
+    * 2 indistinguishable robot-guards guarding the door
         * One of the guards always tells the truth.
         * One of the guards always tells lies.
 
