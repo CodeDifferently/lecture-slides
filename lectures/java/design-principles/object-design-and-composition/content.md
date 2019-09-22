@@ -107,7 +107,7 @@ public class RandomUtils {
 -
 -
 # Creational Classes
-* used to create other objects
+* used to create `new` instances
 
 ```java
 public class PersonFactory {
