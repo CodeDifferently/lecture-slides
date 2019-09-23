@@ -45,6 +45,8 @@
 ### Java
 
 * **Fundamental Programming Structures**
+    * [types](lectures/java/fundamental-programming-structures/types/lecture.html)
+    * [operators](lectures/java/fundamental-programming-structures/operators/lecture.html)
     * [types and operators](lectures/java/fundamental-programming-structures/types-and-operators/lecture.html)
     * [control flow](lectures/java/fundamental-programming-structures/control-flow/lecture.html)
     * [arrays](lectures/java/fundamental-programming-structures/arrays/lecture.html)

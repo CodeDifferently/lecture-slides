@@ -148,14 +148,97 @@ double d = 9.997;
 int n = (int) d; // n is 9
 ```
 
-
-
-
 -
--
-### Casts
+### Casting
 * When two values are combined with a binary operator (such as `n` + `f` where n is an integer and `f` is a floating-point value), both operands are converted to a common type before the operation is carried out.
     - If either of the operands is of type double, the other one will be converted to a double.
     - Otherwise, if either of the operands is of type float, the other one will be converted to a float.
     - Otherwise, if either of the operands is of type long, the other one will be converted to a long.
     - Otherwise, both operands will be converted to an int.
+
+
+
+-
+## Wrapper-Types
+* Each _primitive type_ has a respective _non-primitive_, _wrapper-type_, that is considered generally safer than its primitive counterpart.
+* _Wrapper-types_ also have additional operations that can be performed on them.
+
+-
+## Wrapper-Type List
+* A list of the respective wrapper-types:
+<table>
+    <th>Primitive Type</th>
+    <th>Wrapper-Type</th>
+    <tr>
+        <td>
+        double
+        </td>
+        <td>
+        Double
+        </td>
+    </tr>
+    <tr>
+        <td>
+        float
+        </td>
+        <td>
+        Float
+        </td>
+    </tr>
+    <tr>
+        <td>
+        long
+        </td>
+        <td>
+        Long
+        </td>
+    </tr>
+    <tr>
+        <td>
+        int
+        </td>
+        <td>
+        Integer
+        </td>
+    </tr>
+    <tr>
+        <td>
+        short
+        </td>
+        <td>
+        Short
+        </td>
+    </tr>
+    <tr>
+        <td>
+        byte
+        </td>
+        <td>
+        Byte
+        </td>
+    </tr>
+    <tr>
+        <td>
+        boolean
+        </td>
+        <td>
+        Boolean
+        </td>
+    </tr>
+</table>
+
+
+
+-
+-
+## `null` object
+* The `null` object denotes that an object does not _currently_ exist, but has the _potential_ to exist in the future.
+* All non-primitive values can be assigned to `null`.
+
+
+
+
+
+
+
+
