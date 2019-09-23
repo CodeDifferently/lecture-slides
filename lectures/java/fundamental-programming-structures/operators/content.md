@@ -13,10 +13,9 @@
 ## What we'll cover
 <p class="fragment fade-up">Operators</p>
 <p class="fragment fade-up">Arithmetic Operators</p>
+<p class="fragment fade-up">Logical Operators</p>
 <p class="fragment fade-up">Relational Operators</p>
 <p class="fragment fade-up">Parenthesis and Operator Hierarchy</p>
-<p class="fragment fade-up">Syntactic Sugar</p>
-<p class="fragment fade-up">Bitwise Operators</p>
 
 
 
@@ -28,6 +27,23 @@
 * _operands_ are the _value_ (literal or variable) being _operated_ on.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------------------------------->
+<!------------------------------ arithmetic operators --------------------------->
+<!------------------------------------------------------------------------------->
 
 -
 -
@@ -123,47 +139,405 @@ int remainder = dividend + divisor; // `quotient` is 2
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------------------------------->
+<!------------------------------ logical operators ------------------------------>
+<!------------------------------------------------------------------------------->
+
 -
 -
-#### Binary Relational Operators
-* 5 relational operators that compare two numbers and return a boolean value.
-* Each operand is a _predicate_.
-* The result of a relational operation is a _boolean_ value.
-* _Boolean_ values are either _true_ or _false_.
-* The relational operators are < , > , <= , >= , == , and != 
+## the 6 Logical Operators
+1. `!` not
+2. `&&` _conditional_ and
+3. `||` _conditional_ or
+4. `^` xor (exclusive or)
+5. `&` and
+6. `|` or
+
+
 
 
 
 
 -
+### Logical Operators
+#### the _unary_ `!` operator
+* Returns true if the operand to the right evaluates to false.
+* Returns false if the operand to the right is true.
+
+```java
+boolean rightOperand = true;
+boolean outcome = !rightOperand; // outcome is `false`
+```
+
+
+```java
+boolean rightOperand = false;
+boolean outcome = !rightOperand; // outcome is `true`
+```
+
+
+
+
+
+
+
+-
+### Logical Operators
+#### the _binary_ `&` operator
+* Returns true if both of the operands evaluate to true.
+* Both operands are evaluated before the `and` operator is applied.
+* The following code blocks have identical behavior in all cases
+
+```java
+boolean canWalkThroughDoor = door.isUnlocked() & door.isOpen();
+```
+
+```java
+boolean doorIsUnlocked = door.isUnlocked();
+boolean doorIsOpen = door.isOpen();
+boolean canWalkThroughDoor = doorIsUnlocked && doorIsOpen;
+```
+
+* if `door` is not unlocked, then continue to evaluate if door is open
+
+
+
+
+
+
+
+
+-
+### Logical Operators
+#### the _binary_ `&&` operator
+* Expression resolves to `true` if both of the operands evaluate to `true`.
+* if the operand on the left returns `false`, the operation resolves to `false` without evaluating the operand on the right.
+
+
+
+-
+### Logical Operators
+#### the _binary_ `&&` operator
+##### Example
+
+* The following code blocks have identical behavior in all cases
+
+```java
+boolean canWalkThroughDoor = door.isUnlocked() && door.isOpen();
+```
+
+```java
+boolean canWalkThroughDoor;
+if(door.isUnlocked()) {
+    if(door.isOpen()) {
+        canWalkThroughDoor = true;
+    }
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+-
+### Logical Operators
+#### the _binary_ `|` operator
+* Returns `true` if at least one of the operands evaluates to true.
+* Both operands are evaluated before the `or` operator is applied.
+
+```java
+boolean canWalkThroughDoor = door.isUnlocked() | door.isOpen();
+```
+
+```java
+boolean doorIsUnlocked = door.isUnlocked();
+boolean doorIsOpen = door.isOpen();
+boolean canWalkThroughDoor = doorIsUnlocked || doorIsOpen;
+```
+
+* if `door` is not unlocked, then continue to evaluate if door is open
+
+
+
+
+
+
+
+
+-
+### Logical Operators
+#### the _binary_ `||` operator
+* Expression resolves to `true` if both of the operands evaluate to `true`.
+* if left operand is `false`, the operation resolves to `false` without evaluating the operand on the right.
+
+
+
+
+-
+### Logical Operators
+#### the _binary_ `||` operator
+#### Example
+* The following code blocks have identical behavior in all cases
+
+```java
+boolean canWalkThroughDoor = door.isUnlocked() || door.isOpen();
+```
+
+```java
+boolean canWalkThroughDoor;
+if(door.isUnlocked()) {
+    canWalkThroughDoor = true;
+}
+if(door.isOpen()) {
+    canWalkThroughDoor = true;
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------------------------------->
+<!------------------------------ relational operators --------------------------->
+<!------------------------------------------------------------------------------->
+
+
+-
+-
+## Relational Operators
+* there are 6 relational operators that compare two numbers and return a boolean value.
+
+
+
+
+
 -
 ### the 6 Relational Operators
-1. _less than_, `<`
-2. _greater than_, `>`
-3. _less than or equal to_ `<=`
-4. _greater than or equal to_ `>=` 
-5. _equal to_ `==`
-6. _not equal to_ `!=`
+1. `<` _less than_
+2. `>` _greater than_
+3. `<=` _less than or equal to_
+4. `>=` _greater than or equal to_
+5. `==` _equal to_
+6. `!=` _not equal to_
 
 
 -
-###Combining Assignment with Operators
+### Relational Operators
+* Each operand is a numeric or _boolean_ value.
+* _Boolean_ values are either _true_ or _false_.
+* The result of a relational operation is a _boolean_ value. 
 
-`x += 4;` is equivalent to `x = x + 4;`
 
--
-
-###Increment and Decrement Operators
-
-n++ adds 1 to the current value of the variable n, and n-- subtracts 1 from it
-
-```
-int n = 12; n++;
-```
 
 -
+### `<` Less than
+* `true` if left operand is less than right operand, otherwise `false`.
 
+```java
+int operand1 = 0;
+int operand2 = 1;
+boolean outcome = operand1 < operand2; // outcome is `true`
 ```
+
+```java
+int operand1 = 1;
+int operand2 = 0;
+boolean outcome = operand1 < operand2; // outcome is `false`
+```
+
+
+
+
+
+-
+### `>` Greater than
+* `true` if left operand is greater than right operand, otherwise `false`.
+
+```java
+int operand1 = 1;
+int operand2 = 0;
+boolean outcome = operand1 > operand2; // outcome is `true`
+```
+
+```java
+int operand1 = 0;
+int operand2 = 1;
+boolean outcome = operand1 > operand2; // outcome is `false`
+```
+
+
+
+
+-
+### `<=` Less than or equal to
+* `true` if left operand is less than or equal to right operand, otherwise `false`.
+
+
+```java
+int operand1 = 0;
+int operand2 = 1;
+boolean outcome = operand1 <= operand2; // outcome is `true`
+```
+
+```java
+int operand1 = 1;
+int operand2 = 0;
+boolean outcome = operand1 <= operand2; // outcome is `false`
+```
+
+
+```java
+int operand1 = 0;
+int operand2 = 0;
+boolean outcome = operand1 <= operand2; // outcome is `true`
+```
+
+
+
+
+-
+### `>=` Greater than or equal to
+* `true` if left operand is greatre than or equal to right operand, otherwise `false`.
+
+
+```java
+int operand1 = 0;
+int operand2 = 1;
+boolean outcome = operand1 >= operand2; // outcome is `false`
+```
+
+```java
+int operand1 = 1;
+int operand2 = 0;
+boolean outcome = operand1 >= operand2; // outcome is `true`
+```
+
+
+```java
+int operand1 = 0;
+int operand2 = 0;
+boolean outcome = operand1 >= operand2; // outcome is `true`
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+### Increment / Decrement Operators
+
+
+
+
+
+
+
+-
+### `++` Increment Operator
+* `++` adds 1 to the variable preceding the operator
+
+```java
+int startingValue = 10;
+startingValue++; // startingValue is `11`
+```
+
+
+-
+### `+=` Increment Operator
+* `+=` modifies the operand to the left to by adding the operand to the right to it.
+
+```java
+int startingValue = 10;
+startingValue += 5; // startingValue is `15`
+```
+
+
+
+
+
+
+-
+-
+### `--` Decrement Operator
+* `--` subtracts 1 from the variable preceding the operator
+```java
+int startingValue = 10;
+startingValue++; // startingValue is `11`
+```
+
+
+-
+### `-=`, Decrement Operator
+* `-=` modifies the operand to the left to by subtracting the operand to the right from it.
+
+```java
+int startingValue = 10;
+startingValue -= 5; // startingValue is `5`
+```
+
+
+
+
+-
+```java
 int m = 7;
 int n = 7;
 
@@ -175,133 +549,30 @@ int k = b - 1;   // b is 13, k is 12
 
 
 
--
-###Relational and boolean Operators
 
-To test for equality, use a
-double equal sign, ==.
 
-```
-3==7 // is false.
-
-100 == 100 // is true
-```
-Use a != for inequality.
-
-```
-3!=7 // is true.
-
-5 != 5 // is false
-```
 
 -
-
-| boolean Operators |                       |
-| ----------------- |:--------------------- |
-| <                 | Less than             |
-| >                 | Greater than          |
-| <=                | Less than or equal    |
-| >=                | Greater than or equal |
-
-```
-a < b
-100 > 5
-currentHeight <= maximumHeight
-```
-
 -
-
-Java uses && for the logical “and” operator and || for the logical “or” operator.
-
-The exclamation point ! is the logical negation operator.
-
--
-
-The && and || operators are evaluated in “short circuit” fashion
-
-The second argument is not evaluated if the first argument already determines the value
-
-`expression1 && expression2`
-
-```Java
-input1.isAvailable && input1.canBeUsed()
-
-(5 != 6) && (i == 0)
-
-boolean a = true;
-boolean b = false;
-
-a && b         // false
-a || b         // true
-b || a         // true
-!(a && b)      // true
-```
-
--
-
-The value of expression1 || expression2 is automatically true if the  first
-expression is true, without evaluating the second expression. This is the so-called "short circuit" evaluation.
-
--
-
-Java supports the ternary ?: operator
-
-`condition ? expression1 : expression2`
-
-commonly used when an **if** statement is too verbose
-
-```
-x < y ? x : y // gives the smaller of x and y
-
-```
-
--
-
-###Bitwise Operators
-
-& ("and") | ("or") ^ ("xor") ~ ("not")
-
-\>> and << operators which shift a bit pattern to the right or left.
-
-\>>> operator  lls the top bits with zero, unlike >> which extends the sign
-bit into the top bits. There is no <<< operator.
-
--
-###Bitwise Example
-
-12 = 00001100 (In Binary)
-
-25 = 00011001 (In Binary)
-
-Bitwise OR Operation of 12 and 25
-  00001100
-| 00011001
-  ________
-  00011101  = 29 (In decimal)
-```
-int number1 = 12, number2 = 25, result;
-
-result = number1 | number2;
-System.out.println(result);     // result is 29
-```
-
--
-
-###Parentheses and Operator Hierarchy
+### Parentheses and Operator Hierarchy
 
 [Java order of operations](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
-
 `a && b || c`
-
  means
-
 `(a && b) || c`
 
-```
+```java
 4 + 5 * 8 == 44
 (4 + 5) * 8 == 72
 ```
+
 `*, / have higher precedence than +, -`
+
+
+
+
+
+
 -
 Since += associates right to left, the expression
 
@@ -310,5 +581,3 @@ Since += associates right to left, the expression
 means
 
 `a += (b += c)`
-
--
