@@ -90,7 +90,6 @@ There are eight primitive types in Java:
 8. boolean
 
 -
-
 ###Integer Types
 
 The integer types are for numbers without fractional parts.
@@ -139,15 +138,20 @@ Values of type char can be expressed as hexadecimal values that run from \u0000 
 | \'              | Single quote    | \u0027        |
 | \\\              | Backslash       | \u005c        |
 
+
+
+
+
 -
-
 ###The boolean Type
-
 The boolean type has two values: false and true.
 
--
--
 
+
+
+
+-
+-
 ##Variables
 
 In Java, every variable has a type. You declare a variable by placing the type first, followed by the name of the variable.
@@ -161,17 +165,20 @@ int x;
 ```
 The semicolon is necessary because a declaration is a complete Java statement.
 
+
+
+
 -
-
-
 You can declare multiple variables on a single line:
 
 ```
 int i, j; // both are integers
 ```
 
--
 
+
+
+-
 ###Initializing Variables
 
 After you declare a variable, you must explicitly initialize it by means of an assignment statement—you can never use the value of an uninitialized variable.
@@ -346,172 +353,6 @@ double x = 9.997;
 int nx = (int) Math.round(x);
 ```
 
--
-
-###Combining Assignment with Operators
-
-`x += 4;` is equivalent to `x = x + 4;`
-
--
-
-###Increment and Decrement Operators
-
-n++ adds 1 to the current value of the variable n, and n-- subtracts 1 from it
-
-```
-int n = 12; n++;
-```
-
--
-
-```
-int m = 7;
-int n = 7;
-
-int a = 2 * ++m; // now a is 16, m is 8
-int b = 2 * n++; // now b is 14, n is 8
-b--;             // now b is 13
-int k = b - 1;   // b is 13, k is 12
-```
-
--
-
-###Relational and boolean Operators
-
-To test for equality, use a
-double equal sign, ==.
-
-```
-3==7 // is false.
-
-100 == 100 // is true
-```
-Use a != for inequality.
-
-```
-3!=7 // is true.
-
-5 != 5 // is false
-```
-
--
-
-| boolean Operators |                       |
-| ----------------- |:--------------------- |
-| <                 | Less than             |
-| >                 | Greater than          |
-| <=                | Less than or equal    |
-| >=                | Greater than or equal |
-
-```
-a < b
-100 > 5
-currentHeight <= maximumHeight
-```
-
--
-
-Java uses && for the logical “and” operator and || for the logical “or” operator.
-
-The exclamation point ! is the logical negation operator.
-
--
-
-The && and || operators are evaluated in “short circuit” fashion
-
-The second argument is not evaluated if the first argument already determines the value
-
-`expression1 && expression2`
-
-```Java
-input1.isAvailable && input1.canBeUsed()
-
-(5 != 6) && (i == 0)
-
-boolean a = true;
-boolean b = false;
-
-a && b         // false
-a || b         // true
-b || a         // true
-!(a && b)      // true
-```
-
--
-
-The value of expression1 || expression2 is automatically true if the  first
-expression is true, without evaluating the second expression. This is the so-called "short circuit" evaluation.
-
--
-
-Java supports the ternary ?: operator
-
-`condition ? expression1 : expression2`
-
-commonly used when an **if** statement is too verbose
-
-```
-x < y ? x : y // gives the smaller of x and y
-
-```
-
--
-
-###Bitwise Operators
-
-& ("and") | ("or") ^ ("xor") ~ ("not")
-
-\>> and << operators which shift a bit pattern to the right or left.
-
-\>>> operator  lls the top bits with zero, unlike >> which extends the sign
-bit into the top bits. There is no <<< operator.
-
--
-###Bitwise Example
-
-12 = 00001100 (In Binary)
-
-25 = 00011001 (In Binary)
-
-Bitwise OR Operation of 12 and 25
-  00001100
-| 00011001
-  ________
-  00011101  = 29 (In decimal)
-```
-int number1 = 12, number2 = 25, result;
-
-result = number1 | number2;
-System.out.println(result);     // result is 29
-```
-
--
-
-###Parentheses and Operator Hierarchy
-
-[Java order of operations](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
-
-`a && b || c`
-
- means
-
-`(a && b) || c`
-
-```
-4 + 5 * 8 == 44
-(4 + 5) * 8 == 72
-```
-`*, / have higher precedence than +, -`
--
-Since += associates right to left, the expression
-
-`a += b += c`
-
-means
-
-`a += (b += c)`
-
--
 
 ###Enumerated Types
 
