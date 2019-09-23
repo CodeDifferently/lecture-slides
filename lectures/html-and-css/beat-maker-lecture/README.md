@@ -28,7 +28,7 @@ To begin you're going to make a single beat button in the body
 
 ```html
 		<div data-key="81" class="beat-button"> 
-			<kbd>A</kbd>
+			<kbd>Q</kbd>
 		</div>
 ```	
 the `data-key` attribute here is a big part of how you will be connecting your keys to beat button and sounds
