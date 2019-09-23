@@ -471,6 +471,35 @@ boolean outcome = operand1 >= operand2; // outcome is `true`
 
 
 
+-
+### `==` Equal to
+* `true` if left operand is equal to right operand, otherwise `false`.
+
+
+```java
+int operand1 = 0;
+int operand2 = 1;
+boolean outcome = operand1 == operand2; // outcome is `false`
+```
+
+```java
+int operand1 = 1;
+int operand2 = 0;
+boolean outcome = operand1 == operand2; // outcome is `false`
+```
+
+
+```java
+int operand1 = 0;
+int operand2 = 0;
+boolean outcome = operand1 == operand2; // outcome is `true`
+```
+
+
+
+
+
+
 
 
 
@@ -509,6 +538,11 @@ int startingValue = 10;
 startingValue += 5; // startingValue is `15`
 ```
 
+```java
+int startingValue = 10;
+startingValue = startingValue + 5; // startingValue is `15`
+```
+
 
 
 
@@ -527,26 +561,17 @@ startingValue++; // startingValue is `11`
 -
 ### `-=`, Decrement Operator
 * `-=` modifies the operand to the left to by subtracting the operand to the right from it.
+* the following blocks of code are behaviorally equivalent
 
 ```java
 int startingValue = 10;
 startingValue -= 5; // startingValue is `5`
 ```
 
-
-
-
--
 ```java
-int m = 7;
-int n = 7;
-
-int a = 2 * ++m; // now a is 16, m is 8
-int b = 2 * n++; // now b is 14, n is 8
-b--;             // now b is 13
-int k = b - 1;   // b is 13, k is 12
+int startingValue = 10;
+startingValue = startingValue - 5; // startingValue is `5`
 ```
-
 
 
 

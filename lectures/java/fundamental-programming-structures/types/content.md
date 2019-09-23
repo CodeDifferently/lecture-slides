@@ -61,22 +61,33 @@ int x;
 #### Primitive Data Types
 * A _primitive_ data type is ...
 * There are 8 primitive data-types
-    1. `double` stores 
-    2. `long` stores large non-fractional _number_ values.
-    3. `int` stores non-fractional _number_ values.
-    4. `char` - stores a _character_ type
-    5. `short` stores non-fractional _number_ values.
+    1. `double` stores fractional _number_ values.
+    2. `float` stores fractional _number_ values.
+    3. `long` stores non-fractional _number_ values.
+    4. `int` stores non-fractional _number_ values.
     6. `short` stores non-fractional _number_ values.
-    7. `float`
-    8. `boolean`
+    7. `byte` stores non-fractional _number_ values.
+    8. `boolean` stores _logical_ values (`true`, or `false`)
+
+
+-
+#### Numeric Primitives
+* `short`, `int`, `long`, `float` and `double`.
+* These primitive data types hold only numeric data.
+* Operations associated with such data types are those of simple arithmetic (addition, subtraction, etc.) or of comparisons (is greater than, is equal to, etc.)
+
+
 
 
 
 -
-#### Non-primitive Data Types
-* Discussion point 1C.1
-* Discussion point 1C.2
-* Discussion point 1C.3
+#### Textual primitives:
+* `byte` and `char`.
+* These primitive data types hold characters (that can be Unicode alphabets or even numbers).
+* Operations associated with such types are those of textual manipulation
+    * (comparing two words, joining characters to make words, etc).
+* However, byte and char can also support arithmetic operations.
+
 
 
 
@@ -148,81 +159,3 @@ int n = (int) d; // n is 9
     - Otherwise, if either of the operands is of type float, the other one will be converted to a float.
     - Otherwise, if either of the operands is of type long, the other one will be converted to a long.
     - Otherwise, both operands will be converted to an int.
-
-
-
-
-
-
--
-#### Sub-topic 2B
-* Discussion point 2B.1
-* Discussion point 2B.2
-* Discussion point 2B.3
-
-
--
-#### Sub-topic 2C
-* Discussion point 2C.1
-* Discussion point 2C.2
-* Discussion point 2C.3
-
-
-
-
-
-
-
-
-
-
-
-
-
--
--
-### Topic 3
-* Sub-topic 3A
-* Sub-topic 3B
-* Sub-topic 3C
-
-
-
--
-#### Sub-topic 3A
-* Discussion point 3A.1
-* Discussion point 3A.2
-* Discussion point 3A.3
-
-
--
-#### Sub-topic 3B
-* Discussion point 3B.1
-* Discussion point 3B.2
-* Discussion point 3B.3
-
-
--
-#### Sub-topic 3C
-* Discussion point 3C.1
-* Discussion point 3C.2
-* Discussion point 3C.3
-
-
-
-
-
-
-
-
-
-
-
-
-
--
--
-## Lecture Summary
-* Topic 1 Summary
-* Topic 2 Summary
-* Topic 3 Summary
