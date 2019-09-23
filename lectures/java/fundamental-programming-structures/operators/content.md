@@ -44,7 +44,7 @@
 * The addition _operator_ has two _operands_:
     * _augend_ is the base value
     * _addend_ is the value to add to the base value
-* By _adding_ values, we obtain their _sum_.
+* By _adding_ values, we obtain a _sum_.
 
 ```java
 int augend = 5;
@@ -127,12 +127,23 @@ int remainder = dividend + divisor; // `quotient` is 2
 -
 #### Binary Relational Operators
 * 5 relational operators that compare two numbers and return a boolean value.
-* Each operand is a predicate the result is a logical value
+* Each operand is a _predicate_.
+* The result of a relational operation is a _boolean_ value.
+* _Boolean_ values are either _true_ or _false_.
 * The relational operators are < , > , <= , >= , == , and != 
 
 
 
 
+-
+-
+### the 6 Relational Operators
+1. _less than_, `<`
+2. _greater than_, `>`
+3. _less than or equal to_ `<=`
+4. _greater than or equal to_ `>=` 
+5. _equal to_ `==`
+6. _not equal to_ `!=`
 
 
 -
