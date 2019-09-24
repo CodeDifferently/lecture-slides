@@ -39,6 +39,26 @@
 
 
 
+<hr><hr><hr>
+
+### Terminal
+### Bash
+* [introduction](lectures/terminal/bash/lecture.html)
+
+### Dos
+* [introduction](lectures/terminal/dos/lecture.html)
+
+
+### Version Control Systems
+
+#### Git
+* [Intro to Git](lectures/version-control-systems/git/introduction/lecture.html)
+* [Add Changes to Preexisting Repository](lectures/version-control-systems/git/add-change-to-preexisting-repo/lecture.html)
+* [Basic Collaboration](lectures/version-control-systems/git/basic-collaboration/lecture.html)
+* [How to Fork](lectures/version-control-systems/git/how-to-fork/lecture.html)
+* [Creating a new Personal Repository](lectures/version-control-systems/git/creating-a-new-repository/lecture.html)
+
+
 
 
 
