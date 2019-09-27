@@ -207,16 +207,30 @@ And ***WA LA*** you are Complete. you can even add your own style to make it mor
 Some more sounds: 
   
 ><https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3>
+
 <https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3>
+
 <https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335238/audio/nipon_cymbal_1.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335237/audio/nipon_cymbal_2.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335238/audio/taiko_2.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335237/audio/med_taiko.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335238/audio/shime_hi.mp3>
+
 <https://res.cloudinary.com/cd0hgkqgk/video/upload/v1538335238/audio/shime_hi_2.mp3>
+
 <https://s3.us-east-2.amazonaws.com/fcc-projects-jms/Drum+Machine/Conga.m4a>
+
 <https://s3.us-east-2.amazonaws.com/fcc-projects-jms/Drum+Machine/Crash.m4a>
+
 <https://s3.us-east-2.amazonaws.com/fcc-projects-jms/Drum+Machine/Cymbal+Hit.m4a>
+
 <https://s3.us-east-2.amazonaws.com/fcc-projects-jms/Drum+Machine/Scratch.m4a>
+
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/377560/PAD1.wav"
 
