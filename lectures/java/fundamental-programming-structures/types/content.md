@@ -211,6 +211,14 @@ int n = (int) d; // n is 9
     </tr>
     <tr>
         <td>
+        char
+        </td>
+        <td>
+        Character
+        </td>
+    </tr>
+    <tr>
+        <td>
         byte
         </td>
         <td>

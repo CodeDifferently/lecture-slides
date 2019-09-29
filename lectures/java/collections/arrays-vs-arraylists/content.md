@@ -212,7 +212,7 @@ heroes.set(4, "The Tick");
 ## Remove an Item
 
 Array:
-* There is no way to remove and item from an array.
+* There is no way to remove an item from an array.
 * You will need to duplicate values into a new array sans the value to remove.
 
 ArrayList:
@@ -233,7 +233,7 @@ heroes.clear();
 
 
 -
-## Length of Items
+## Get number of Items
 Array:
 ```java
 villians.length;
