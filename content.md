@@ -21,9 +21,6 @@
 
 
 
-
-
-
 * **Did You Know**
     * [inspecting the dom](lectures/did-you-know/inspecting-the-dom/lecture.html)
 
