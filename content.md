@@ -32,6 +32,57 @@
 
 <hr><hr><hr>
 
+### [Primary School](lectures/primary-school/)
+* **Grades K - 2nd**
+    * [simple binary states](lectures/primary-school/0th-through-2nd/simple.binary-states/lecture.html)
+    * [simple control flow](lectures/primary-school/0th-through-2nd/simple.control-flow/lecture.html)
+    * [simple digital citizenship](lectures/primary-school/0th-through-2nd/simple.digital-citizenship/lecture.html)
+    * [simple objects and compositon](lectures/primary-school/0th-through-2nd/simple.objects-and-composition/lecture.html)
+    
+* **Grades 3rd - 5th**
+    * [simple binary states](lectures/primary-school/3rd-through-5th/simple.binary-states/lecture.html)
+    * [simple block programming](lectures/primary-school/3rd-through-5th/simple.block-programming/lecture.html)
+    * [intermediate binary states](lectures/primary-school/3rd-through-5th/intermediate.binary-states/lecture.html)
+    * [intermediate block programming](lectures/primary-school/3rd-through-5th/intermediate.block-programming/lecture.html)
+    * [intermediate control flow](lectures/primary-school/3rd-through-5th/intermediate.control-flow/lecture.html)
+    * [intermediate digital citizenship](lectures/primary-school/3rd-through-5th/simple.binary-states/lecture.html)
+    * [intermediate objects and composition](lectures/primary-school/3rd-through-5th/interemediate.objects-and-composition/lecture.html)
+    
+
+
+   
+* **Grades 6th - 8th**
+    * [advanced binary states](lectures/primary-school/6th-through-8th/advanced.binary-states/lecture.html)
+    * [advanced block programming](lectures/primary-school/6th-through-8th/advanced.block-programming/lecture.html)
+    * [advanced objects and composition](lectures/primary-school/6th-through-8th/advanced.objects-and-composition/lecture.html)
+    * [advanced control flow](lectures/primary-school/6th-through-8th/advanced.control-flow/lecture.html)
+    * [intermediate digital citizenship](lectures/primary-school/6th-through-8th/intermediate.digital-citizenship/lecture.html)
+    * [simple classes](lectures/primary-school/6th-through-8th/advanced.binary-states/lecture.html)
+    * [simple data visualization](lectures/primary-school/6th-through-8th/simple.data-visualization/lecture.html)
+    * [simple telemetry](lectures/primary-school/6th-through-8th/simple.telemetry/lecture.html)
+
+
+
+* **Grades 9th - 12th**
+    * [advanced digital citizenship](lectures/primary-school/9th-through-12th/advanced.digital-citizenship/lecture.html)
+    * [intermediate classes](lectures/primary-school/9th-through-12th/intermediate.classes/lecture.html)
+    * [intemediate data visualization](lectures/primary-school/9th-through-12th/intermediate.data-visualization/lecture.html)
+    * [intermediate digital citizenship](lectures/primary-school/9th-through-12th/intermediate.digital-citizenship/lecture.html)
+    * [intermediate functions and methods](lectures/primary-school/9th-through-12th/advanced.functions-and-methods/lecture.html)
+    * [intermediate telemetry](lectures/primary-school/9th-through-12th/intermediate.telemetry/lecture.html)
+    
+
+    
+
+
+
+
+
+
+
+
+<hr><hr><hr>
+
 ### Team Building
 * [Ice Breaker](lectures/team-building/icebreaker/lecture.html)
 
