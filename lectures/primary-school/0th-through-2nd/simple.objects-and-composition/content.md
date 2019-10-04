@@ -1,4 +1,4 @@
-# Title of Lecture
+# Object and Composition
 
 
 
@@ -10,8 +10,8 @@
 -
 -
 ## Lecture Overview
-* Topic 1
-* Topic 2
+* What is an Object?
+* What is a Class?
 * Topic 3
 
 
@@ -27,30 +27,28 @@
 
 -
 -
-### Topic 1
-* Sub-topic 1A
-* Sub-topic 1B
-* Sub-topic 1C
+### What is an Object?
+* Objects are all around us. Point to a few of them in the classroom.
+* An object has a state which is the appearance, type, shape, etc.
+* Objects also have behaviors or what it can do.
 
 -
-#### Sub-topic 1A
-* Discussion point 1A.1
-* Discussion point 1A.2
-* Discussion point 1A.3
-
+#### Observe and Discuss
+<img src="dog-jumping.png">
 
 -
-#### Sub-topic 1B
-* Discussion point 1B.1
-* Discussion point 1B.2
-* Discussion point 1B.3
+#### What is the state of the dog?
+* What color is the dog's fur?
+* Let's name the dog!
+* Is the dog happy?
 
 
 -
-#### Sub-topic 1C
-* Discussion point 1C.1
-* Discussion point 1C.2
-* Discussion point 1C.3
+#### What are the behaviors of the dog?
+* Is the dog jumping?
+* Is the dog running?
+* Is the dog barking?
+* Is the dog sleeping?
 
 
 
@@ -64,10 +62,10 @@
 
 -
 -
-### Topic 2
-* Sub-topic 2A
-* Sub-topic 2B
-* Sub-topic 2C
+### What is a Class?
+* A lot of things in life are the same type
+* Objects can appear to look different but they are built the same
+* Take for instance, different bicycles. 
 
 -
 #### Sub-topic 2A

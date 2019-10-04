@@ -1,4 +1,4 @@
-# Title of Lecture
+# Simple Binary
 
 
 
