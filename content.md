@@ -42,7 +42,7 @@
     * [intermediate binary states](lectures/primary-school/3rd-through-5th/intermediate.binary-states/lecture.html)
     * [intermediate block programming](lectures/primary-school/3rd-through-5th/intermediate.block-programming/lecture.html)
     * [intermediate control flow](lectures/primary-school/3rd-through-5th/intermediate.control-flow/lecture.html)
-    * [intermediate digital citizenship](lectures/primary-school/3rd-through-5th/simple.binary-states/lecture.html)
+    * [intermediate digital citizenship](lectures/primary-school/3rd-through-5th/intermediate.digital-citizenship/lecture.html)
     * [intermediate objects and composition](lectures/primary-school/3rd-through-5th/interemediate.objects-and-composition/lecture.html)
     
 
