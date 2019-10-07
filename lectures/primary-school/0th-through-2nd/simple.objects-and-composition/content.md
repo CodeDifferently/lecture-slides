@@ -65,7 +65,7 @@
 ### What is a Class?
 * A lot of things in life are the same type
 * Objects can appear to look different but they are built the same
-* Take for instance, different bicycles. 
+* Take for instance, there are different types of bicycles.
 
 -
 #### Sub-topic 2A
