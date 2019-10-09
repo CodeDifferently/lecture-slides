@@ -81,6 +81,8 @@
 * Share about the things you like
 * Share your favorite things
 
+<img src="multi-sports.png"> <img src="multi-video-games.png">
+
 
 -
 #### What is Not OK to Share
@@ -88,6 +90,11 @@
 * Phone number and home address
 * Your school
 
+
+-
+<img src="entry-form.png">
+
+* What fields on this entry form should be shared online?
 
 
 -
