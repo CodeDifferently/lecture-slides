@@ -81,7 +81,7 @@
 * Share about the things you like
 * Share your favorite things
 
-<img src="multi-sports.png"> <img src="multi-video-games.png">
+<img src="multi-sports.png">
 
 
 -
