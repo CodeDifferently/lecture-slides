@@ -100,7 +100,7 @@
 
 
 -
-#### What is recorded
+#### What is recorded?
 * What is a website that you visit everyday?
 * What search engine do you use?
 * What foods have you ordered online for delivery?
@@ -108,10 +108,10 @@
 
 
 -
-
-
-
-
+* Age
+* Race
+* Job
+* Interests
 
 
 
