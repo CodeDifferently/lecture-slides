@@ -104,7 +104,8 @@
 * What is a website that you visit everyday?
 * What search engine do you use?
 * What foods have you ordered online for delivery?
-<img src= search-engines.jpg>
+
+<img src= "search-engines.jpg">
 
 
 -
@@ -141,7 +142,7 @@
 * Playing an instrument
 * Building a webpage
 
-
+-
 
 #### Your perfect day with Media
 * Think about the amount of time you spend each day on a device
@@ -150,6 +151,9 @@
 
 <img src="child-thinking.jpg">
 
+
+
+-
 #### Activity
 * Think about what daily tasks you do in a 24 hour period
 * From the time you wake up to going to bed, what does your day look like?
