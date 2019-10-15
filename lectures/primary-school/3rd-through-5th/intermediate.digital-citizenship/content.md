@@ -73,6 +73,7 @@
 ### Digital Footprint
 * What is OK to share online
 * What is not OK to share online
+* What information is being recorded online every time you visit a website
 
 
 -
@@ -80,6 +81,8 @@
 * Share your hobbies
 * Share about the things you like
 * Share your favorite things
+
+<img src="multi-sports.png">
 
 
 -
@@ -89,20 +92,45 @@
 * Your school
 
 
+-
+* What fields on this entry form should be shared online?
+<img src="entry-form.png">
+
+
+
+
+-
+#### What is recorded?
+* What is a website that you visit everyday?
+* What search engine do you use?
+* What foods have you ordered online for delivery?
+
+<img src= "search-engines.jpg">
+
+
+-
+* Age
+* Race
+* Job
+* Interests
+
+
+
+
 
 -
 -
 ### Media Balance
-* When to take a break
-* Inviting a friend to play when they are alone
-* Turning off your device before going to bed
+* When to take a break from your device
+* How much time should you spend on your device?
+* Know when to turn off your device
 
 
 
 -
 #### When to take a break from your device
-* Take a break when talking to people in person
-* Take time to get away after using a device for a certain amount of time
+* Take a break when talking to someone face to face
+* Put your device away when eating with family and friends
 * If your device is not being used for schoolwork, put it away until finished homework
 
 
@@ -111,9 +139,10 @@
 * Enjoying a playground
 * Reading a book
 * Helping a parent or guardian cook a meal
-* Build a Lego city
+* Playing an instrument
+* Building a webpage
 
-
+-
 
 #### Your perfect day with Media
 * Think about the amount of time you spend each day on a device
@@ -122,6 +151,9 @@
 
 <img src="child-thinking.jpg">
 
+
+
+-
 #### Activity
 * Think about what daily tasks you do in a 24 hour period
 * From the time you wake up to going to bed, what does your day look like?
