@@ -156,7 +156,7 @@
 * What is a password?
 * What makes a strong password?
 * The importance of having more than one password.
-<img src="../img/password.png">
+<img src="../../img/password.png">
 
 
 -
