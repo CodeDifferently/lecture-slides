@@ -20,14 +20,6 @@
 
 
 
-
-
-
-
-
-
-
-
 -
 -
 ### What makes a good digital citizen?
@@ -59,9 +51,6 @@
 * Ask before sharing a friends post online
 
 <img src="child-respectful.jpg">
-
-
-
 
 
 
@@ -149,12 +138,6 @@
 * From the time you wake up to going to bed, what does your day look like?
 * There are 24 blocks. Each block represents 1 hour. Write in each block an activity or task.
 
--
-#### Example
-
-<img src="example.png">
-
-
 
 
 -
@@ -164,7 +147,6 @@
 * What makes a strong password?
 * The importance of having more than one password.
 
-<img src="password.png">
 
 
 -
