@@ -152,11 +152,11 @@
 
 -
 -
-### Privacy & Security
+### Passwords
 * What is a password?
 * What makes a strong password?
 * The importance of having more than one password.
-<img src="../../img/password.png">
+<img src="password.png">
 
 
 -
@@ -164,6 +164,15 @@
 * A secret string of letters, symbols, and numbers that you can use to prevent others From
 accessing your information digitally.
 <img src="laptop-password">
+
+
+-
+#### What makes a bad password?
+* Using common words or names
+* Repeated letters or common patterns
+* Using words from a dictionary
+* Using private information such as a birthdate or address
+<img src="worst-passwords.png">
 
 
 -
@@ -175,8 +184,48 @@ accessing your information digitally.
 <img src="strong-password.jpg">
 
 -
-<img src="C:\Users\leaht\Dev\lecture-slides\lectures\primary-school\3rd-through-5th\intermediate.digital-citizenship\img\bad-good-password.jpg">
+<img src="bad-good-password.jpg">
 
+
+-
+#### Having more than one password
+* Ensures if one account is hacked, other accounts cannot be breached
+* Decreases the chance that your password will be discovered
+
+
+-
+-
+### Private and Personal Information
+* Why do people share information about themselves
+* The difference of private and personal information
+* The risks of sharing private information
+
+
+-
+#### Why do people share?
+* Our brains are wired to share with other people
+* People like to help and entertain other while online
+* To build or maintain a relationship with someone or a group of people
+
+
+-
+#### Private Information
+* Private information can be used online to identify you because the information
+is unique to you.
+<img src="private-info.png">
+
+
+-
+#### Personal Information
+* Personal information cannot be used to identify you because it can be true for other people as well.
+<img src="hobbies.png">
+
+
+-
+#### Risks of Sharing Private Information
+* Anyone can know your location and cause harm
+* Hackers and criminals can use your information to steal your identity or money
+<img src="hacked.jpg">
 
 -
 -
