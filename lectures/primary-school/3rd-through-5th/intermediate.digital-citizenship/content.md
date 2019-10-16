@@ -149,6 +149,13 @@
 * From the time you wake up to going to bed, what does your day look like?
 * There are 24 blocks. Each block represents 1 hour. Write in each block an activity or task.
 
+-
+#### Example
+
+<img src="example.png">
+
+
+
 
 -
 -
@@ -156,6 +163,7 @@
 * What is a password?
 * What makes a strong password?
 * The importance of having more than one password.
+
 <img src="password.png">
 
 
@@ -163,7 +171,8 @@
 #### What is a password?
 * A secret string of letters, symbols, and numbers that you can use to prevent others From
 accessing your information digitally.
-<img src="laptop-password">
+
+<img src="laptop-password.png">
 
 
 -
@@ -172,6 +181,7 @@ accessing your information digitally.
 * Repeated letters or common patterns
 * Using words from a dictionary
 * Using private information such as a birthdate or address
+
 <img src="worst-passwords.png">
 
 
@@ -181,6 +191,7 @@ accessing your information digitally.
 * Using random numbers
 * Adding in symbols. Example: !@#$%^&*
 * Making sure the password is at least 8 characters long.
+
 <img src="strong-password.jpg">
 
 -
@@ -212,12 +223,14 @@ accessing your information digitally.
 #### Private Information
 * Private information can be used online to identify you because the information
 is unique to you.
+
 <img src="private-info.png">
 
 
 -
 #### Personal Information
 * Personal information cannot be used to identify you because it can be true for other people as well.
+
 <img src="hobbies.png">
 
 
@@ -225,7 +238,10 @@ is unique to you.
 #### Risks of Sharing Private Information
 * Anyone can know your location and cause harm
 * Hackers and criminals can use your information to steal your identity or money
+
 <img src="hacked.jpg">
+
+
 
 -
 -
