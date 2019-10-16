@@ -31,12 +31,12 @@
 -
 -
 ### What makes a good digital citizen?
-* Safety
-* Responsibility
-* Respectful
+* Be safe
+* Be responsible
+* Be respectful
 
 -
-#### Safety
+#### Be Safe
 * Always ask a parent or a teacher first before going online.
 * Visit the "green" websites and avoid the "red" websites.
 * Only talk to people you know.
@@ -45,7 +45,7 @@
 <img src="child-raising-hand.jpg">
 
 -
-#### Responsibility
+#### Be Responsible
 * Discuss with a parent or teacher what you would like to do on the internet
 * Tell an adult if something on the internet makes you feel scared or nervous.
 * Follow all rules your parent or adult gives you while online
@@ -59,8 +59,6 @@
 * Ask before sharing a friends post online
 
 <img src="child-respectful.jpg">
-
-
 
 
 
@@ -101,19 +99,11 @@
 
 -
 #### What is recorded?
-* What is a website that you visit everyday?
 * What search engine do you use?
-* What foods have you ordered online for delivery?
+* Everything that we do online is being recorded and can never be erased.
+* Always be aware of what you post and search for online.
 
 <img src= "search-engines.jpg">
-
-
--
-* Age
-* Race
-* Job
-* Interests
-
 
 
 
@@ -136,20 +126,20 @@
 
 -
 #### Activities to do without a device
-* Enjoying a playground
-* Reading a book
-* Helping a parent or guardian cook a meal
+* Play outside
+* Read a book or comics
+* Helping a parent or guardian prepare a meal
 * Playing an instrument
-* Building a webpage
+
 
 -
 
 #### Your perfect day with Media
 * Think about the amount of time you spend each day on a device
-* How much time do you spend in the morning, afternoon, evening, and at night before bed
+* How much time do you spend in the morning, afternoon, evening, and at night before bed?
 * Do you think that there is a good balance in your life?
 
-<img src="child-thinking.jpg">
+<img src="balance-scale.png">
 
 
 
@@ -159,10 +149,30 @@
 * From the time you wake up to going to bed, what does your day look like?
 * There are 24 blocks. Each block represents 1 hour. Write in each block an activity or task.
 
--
--
-###
 
+-
+-
+### Privacy & Security
+* What is a password?
+* What makes a strong password?
+* The importance of having more than one password.
+<img src="password.png">
+
+
+-
+#### What is a password?
+* A secret string of letters, symbols, and numbers that you can use to prevent others From
+accessing your information digitally.
+<img src="laptop-password">
+
+
+-
+#### What makes a strong password?
+* A mixture of lowercase and uppercase letters
+* Using random numbers
+* Adding in symbols. Example: !@#$%^&*
+* Making sure the password is at least 8 characters long.
+<img src="strong-password.jpg">
 
 -
 -
