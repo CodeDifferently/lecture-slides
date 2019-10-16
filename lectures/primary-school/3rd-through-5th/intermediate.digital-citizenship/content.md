@@ -175,7 +175,7 @@ accessing your information digitally.
 <img src="strong-password.jpg">
 
 -
-<img src="bad-good-password">
+<img src="C:\Users\leaht\Dev\lecture-slides\lectures\primary-school\3rd-through-5th\intermediate.digital-citizenship\img\bad-good-password.jpg">
 
 
 -
