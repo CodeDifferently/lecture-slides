@@ -156,7 +156,7 @@
 * What is a password?
 * What makes a strong password?
 * The importance of having more than one password.
-<img src="password.png">
+<img src="../password.png">
 
 
 -
@@ -173,6 +173,10 @@ accessing your information digitally.
 * Adding in symbols. Example: !@#$%^&*
 * Making sure the password is at least 8 characters long.
 <img src="strong-password.jpg">
+
+-
+<img src="bad-good-password">
+
 
 -
 -
