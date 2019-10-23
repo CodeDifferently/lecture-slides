@@ -219,11 +219,15 @@ is unique to you.
 -
 #### Risks of Sharing Private Information
 * Anyone can know your location and cause harm
-* Hackers and criminals can use your information to steal your identity or money
+* Hackers and criminals can use your information to steal your identity
 
 <img src="hacked.jpg">
 
 
+
+-
+-
+### Cyberbullying
 
 -
 -
