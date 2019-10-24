@@ -175,11 +175,11 @@
 
 
 ### CSS
-* [What is CSS?](lectures/html/what-is-css/lecture.html)
+* [What is CSS?](lectures/html/css/what-is-css/lecture.html)
 
 ### JavaScript
-* [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
-* [Intro to Javascript](lectures/javascript/what-is-phaser/lecture.html)
+* [What is Javascript?](lectures/html/javascript/what-is-javascript/lecture.html)
+* [Intro to Javascript](lectures/html/javascript/what-is-phaser/lecture.html)
 
 
 
