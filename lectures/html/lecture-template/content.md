@@ -1,12 +1,28 @@
 # Title of Lecture
 
 
+
+
+
+
+
+
 -
 -
 ## Lecture Overview
 * Topic 1
 * Topic 2
 * Topic 3
+
+
+
+
+
+
+
+
+
+
 
 
 -
@@ -35,6 +51,11 @@
 * Discussion point 1C.1
 * Discussion point 1C.2
 * Discussion point 1C.3
+
+
+
+
+
 
 
 
@@ -76,6 +97,10 @@
 
 
 
+
+
+
+
 -
 -
 ### Topic 3
@@ -104,6 +129,17 @@
 * Discussion point 3C.1
 * Discussion point 3C.2
 * Discussion point 3C.3
+
+
+
+
+
+
+
+
+
+
+
 
 
 -
