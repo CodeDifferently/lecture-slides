@@ -224,3 +224,8 @@
         * [creating a test](./hackerrank-for-work-landing-page.png)
     
 
+<hr><hr><hr>
+
+### Intro To Javascript Monday Class
+* ***Processing Js***
+* [Intro to js](lectures/javascript/intro-to-javascript/lecture.html)
