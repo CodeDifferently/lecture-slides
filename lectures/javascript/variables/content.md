@@ -1,9 +1,5 @@
 # Variables
 
-
-
-
-
 -
 -
 ## Lecture Overview
@@ -42,61 +38,12 @@
     * `var number = 20;`
 
 
-
+#### Things to know Syntactically
+* The things on the left of an assignment is always the variable
+* The things on the right is always the value that you are assigning to the variable.
 <!-- Section 2 -->
 -
 -
-### What is a command
-* An instruction given by a user telling a computer to do something.
-    * `Dog.walk();`
-
-
-<!-- Section 3 -->
--
--
-### Things you can do W/ JS
-* Web Development
-* Game development
-* Mobile Apps
-* Server Apps 
-
-
-
--
--
-### Processing JS
-* framework designed to write visualisations, images, and interactive content
-
-
--
-### Making Shapes w/ Processing
-* Ellipse (oval)
-* Squares / Rectangle
-* Triangles
-
-
--
-#### Ellipse's
-* `ellipse(x, y, width, height)`
-* Example ` ellipse(56, 46, 55, 55); `
-
-
--
-#### Squares
-* `rect(x, y, width, height)`
-* Example `rect(30, 20, 55, 55);`
-
--
-#### Triangles
-* `triangle(x1, y1, x2, y2, x3, y3);`
-* Example `triangle(30, 75, 58, 20, 86, 75);`
-
--
-#### Filling your shape
-* `fill(value1, value2, value3);` <-- RGB Values
-* `fill(color);`
-
-
 -
 -
 # Lets Try it 
