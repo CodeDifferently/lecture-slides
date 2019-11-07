@@ -229,3 +229,4 @@
 ### Intro To Javascript Monday Class
 * ***Processing Js***
 * [Intro to js](lectures/javascript/intro-to-javascript/lecture.html)
+* [Variables](lectures/javascript/variables/lecture.html)
