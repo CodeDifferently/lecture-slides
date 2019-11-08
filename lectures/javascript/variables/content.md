@@ -37,7 +37,8 @@
     * Example of how initialize a variable
     * `var number = 20;`
 
-
+-
+-
 #### Things to know Syntactically
 * The things on the left of an assignment is always the variable
 * The things on the right is always the value that you are assigning to the variable.
