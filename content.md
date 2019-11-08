@@ -162,21 +162,24 @@
 
 <hr><hr><hr>
 
-### HTML and CSS
-* [What is html?](lectures/html-and-css/what-is-html/lecture.html)
-* [HTML Document Structure](lectures/html-and-css/html-document-structure/lecture.html)
-* [Anatomy Of Html Tags](lectures/html-and-css/anatomy-of-html-tags/lecture.html)
-* [HTML Content Models](lectures/html-and-css/html-content-models/lecture.html)
-* [Lists](lectures/html-and-css/lists/lecture.html)
-* [Tables - Basic Definitions](lectures/html-and-css/tables-basic-definitions/lecture.html)
-* [Tables - Enhanced Definitions](lectures/html-and-css/tables-enhanced-definitions/lecture.html)
-* [Forms](lectures/html-and-css/forms/lecture.html)
-* [CSS and Styling](lectures/html-and-css/css-and-styling-part-one/lecture.html)
-* [Beat Maker Lecture](lectures/html-and-css/beat-maker-lecture/lecture.html)
+### HTML
+* [What is html?](lectures/html/what-is-html/lecture.html)
+* [HTML Document Structure](lectures/html/document-structure/lecture.html)
+* [Anatomy Of Html Tags](lectures/html/anatomy-of-html-tags/lecture.html)
+* [HTML Content Models](lectures/html/html-content-models/lecture.html)
+* [Lists](lectures/html/lists/lecture.html)
+* [Tables - Basic Definitions](lectures/html/tables-basic-definitions/lecture.html)
+* [Tables - Enhanced Definitions](lectures/html/tables-enhanced-definitions/lecture.html)
+* [Forms](lectures/html/forms/lecture.html)
+* [Beat Maker Lecture](lectures/html/beat-maker-lecture/lecture.html)
+
+
+### CSS
+* [What is CSS?](lectures/html/css/what-is-css/lecture.html)
 
 ### JavaScript
-* [What is Javascript?](lectures/javascript/what-is-javascript/lecture.html)
-* [Intro to Javascript](lectures/javascript/what-is-phaser/lecture.html)
+* [What is Javascript?](lectures/html/javascript/what-is-javascript/lecture.html)
+* [Intro to Javascript](lectures/html/javascript/what-is-phaser/lecture.html)
 
 
 
@@ -221,3 +224,9 @@
         * [creating a test](./hackerrank-for-work-landing-page.png)
     
 
+<hr><hr><hr>
+
+### Intro To Javascript Monday Class
+* ***Processing Js***
+* [Intro to js](lectures/javascript/intro-to-javascript/lecture.html)
+* [Variables](lectures/javascript/variables/lecture.html)

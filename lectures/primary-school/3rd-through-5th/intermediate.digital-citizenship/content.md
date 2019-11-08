@@ -34,7 +34,7 @@
 * Only talk to people you know.
 * Never share important information online.
 
-<img src="child-raising-hand.jpg">
+<img src="img/child-raising-hand.jpg" class="image-size-two">
 
 -
 #### Be Responsible
@@ -42,7 +42,7 @@
 * Tell an adult if something on the internet makes you feel scared or nervous.
 * Follow all rules your parent or adult gives you while online
 
-<img src="child-cleaning-responsibility.jpg">
+<img src="img/child-cleaning-responsibility.jpg" class="image-size-half">
 
 -
 #### Be Respectful
@@ -50,7 +50,7 @@
 * Stand up for others who may be bullied
 * Ask before sharing a friends post online
 
-<img src="child-respectful.jpg">
+<img src="img/child-respectful.jpg">
 
 
 
@@ -69,7 +69,7 @@
 * Share about the things you like
 * Share your favorite things
 
-<img src="multi-sports.png">
+<img src="img/multi-sports.png">
 
 
 -
@@ -81,7 +81,8 @@
 
 -
 * What fields on this entry form should be shared online?
-<img src="entry-form.png">
+
+<img src="img/entry-form.png">
 
 
 
@@ -92,7 +93,7 @@
 * Everything that we do online is being recorded and can never be erased.
 * Always be aware of what you post and search for online.
 
-<img src= "search-engines.jpg">
+<img src="img/search-engines.jpg">
 
 
 
@@ -128,7 +129,7 @@
 * How much time do you spend in the morning, afternoon, evening, and at night before bed?
 * Do you think that there is a good balance in your life?
 
-<img src="balance-scale.png">
+<img src="img/balance-scale.png">
 
 
 
@@ -154,7 +155,7 @@
 * A secret string of letters, symbols, and numbers that you can use to prevent others From
 accessing your information digitally.
 
-<img src="laptop-password.png">
+<img src="img/laptop-password.png">
 
 
 -
@@ -164,7 +165,7 @@ accessing your information digitally.
 * Using words from a dictionary
 * Using private information such as a birthdate or address
 
-<img src="worst-passwords.png">
+<img src="img/worst-passwords.png">
 
 
 -
@@ -174,10 +175,10 @@ accessing your information digitally.
 * Adding in symbols. Example: !@#$%^&*
 * Making sure the password is at least 8 characters long.
 
-<img src="strong-password.jpg">
+<img src="img/strong-password.jpg">
 
 -
-<img src="bad-good-password.jpg">
+<img src="img/bad-good-password.jpg">
 
 
 -
@@ -206,14 +207,14 @@ accessing your information digitally.
 * Private information can be used online to identify you because the information
 is unique to you.
 
-<img src="private-info.png">
+<img src="img/private-info.png">
 
 
 -
 #### Personal Information
 * Personal information cannot be used to identify you because it can be true for other people as well.
 
-<img src="hobbies.png">
+<img src="img/hobbies.png">
 
 
 -
@@ -221,7 +222,7 @@ is unique to you.
 * Anyone can know your location and cause harm
 * Hackers and criminals can use your information to steal your identity
 
-<img src="hacked.jpg">
+<img src="img/hacked.jpg">
 
 
 

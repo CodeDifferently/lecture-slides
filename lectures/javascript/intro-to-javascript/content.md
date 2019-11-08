@@ -1,7 +1,4 @@
-# Javascript
-
-
-
+# Intro Javascript W/ DRAWING
 
 
 
@@ -10,160 +7,87 @@
 -
 -
 ## Lecture Overview
-* Brief intro
-* Where and How to use it
-* Variables
-* Syntax
-* Assignment vs comparison
-* Functions
+* What is Javascript
+* What is a command
+* Drawing with javascript
 
+
+
+<!-- Section 1 -->
+-
+-
+### What is Javascript
+* Programming Language for the Web
+* Most commonly used as a client side scripting language.
+* JavaScript can calculate, manipulate and validate data
+    
+-
+# How Javascript(JS) is Used
+
+-
+* Can be used to change the contents of a page.
+    * `document.getElementById("demo").innerHTML = "Hello JavaScript";`
+
+-
+* Can Also be use to do operations
+    * `var x = 0.2 + 0.1;         // x will be 0.30000000000000004`
+
+
+<!-- Section 2 -->
+-
+-
+### What is a command
+* An instruction given by a user telling a computer to do something.
+    * `Dog.walk();`
+
+
+<!-- Section 3 -->
+-
+-
+### Things you can do W/ JS
+* Web Development
+* Game development
+* Mobile Apps
+* Server Apps 
 
 
 
 -
 -
-### Intro
-* Changes HTML Content
-* Changes Attribute Values
-* Changes CSS
-* Can Hide and Change HTML elements
-
--
-#### How Javascript Affects HTML and CSS
-* One of many JavaScript HTML methods is getElementById();
-
-```javascript
-document.getElementById("demo").innerHTML = "Hello JavaScript";
-```
-
--
-#### Can Change Attribute Values
-* Can also use the getElementByID
-```javascript 
-document.getElementById("demo").src = "somepng.png";
-```
+### Processing JS
+* framework designed to write visualisations, images, and interactive content
 
 
 -
-#### Changing CSS Values
-```javascript
-document.getElementById("demo").style.display = "block";
-```
-
--
--
-### Where to use it
-* JavaScript code must be inserted between `<script>` and `</script>` tags.
-* Can be placed in the `<head>` section
-* Placed in the `<body>` section
-* Can be placed externally as well
-
--
-#### Placing in the head
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-<body>
-
-<h1>A Web Page</h1>
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-
-</body>
-</html>
-```
+### Making Shapes w/ Processing
+* Ellipse (oval)
+* Squares / Rectangle
+* Triangles
 
 
 -
-#### Placing in the body
-```html
-<!DOCTYPE html>
-<html>
-<body> 
-
-<h1>A Web Page</h1>
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
- document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-
-</body>
-</html>
-```
+#### Ellipse's
+* `ellipse(x, y, width, height)`
+* Example ` ellipse(56, 46, 55, 55); `
 
 
 -
-#### External Javascript
-```javascript
-function myFunction() {
- document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-```
-* External scripts are practical when the same code is used in many different web pages.
-* Put the name of the script file in the src(source) attribute of a `<script>` tag.
+#### Squares
+* `rect(x, y, width, height)`
+* Example `rect(30, 20, 55, 55);`
 
 -
-##### Advantages of using External Javascript
-* It separates HTML and code
-* It makes HTML and JavaScript easier to read and maintain
-* Cached JavaScript files can speed up page loads
+#### Triangles
+* `triangle(x1, y1, x2, y2, x3, y3);`
+* Example `triangle(30, 75, 58, 20, 86, 75);`
+
+-
+#### Filling your shape
+* `fill(value1, value2, value3);` <-- RGB Values
+* `fill(color);`
 
 
 -
 -
-### Variables
-* **Variables** are used to **store** data values.
-* JavaScript uses the var keyword to **declare** variables.
-* Equal signs are used to assign values to variables.
-
--
-#### Example 
-```javascript
-var x;
-
-x = 6;
-```
-
--
--
-### Syntax
-* How JavaScript programs are constructed :
-~~~javascript 
-var x, y, z;          // How to declare variables
-x = 5; y = 6;      // How to assign values
-z = x + y;         // How to compute values
-~~~
-
-
-
--
-#### Most important rules for writing fixed values
-* **Numbers** are written with or without decimals
-    * I.E. `10.50` or `1001`
-* Strings are text, written within **double** or **single** quotes
-    * I.E. `"John Doe"` or `'John Doe'`
-* Discussion point 3A.3
-
-
--
--
-#### Operators
-* JavaScript uses **arithmetic operators** `( + - * / )` to **compute** values
-
-
-
-
-
-
-
+# Lets Try it 
+[https://codepen.io/Rihzan/pen/zYYRLEr](https://codepen.io/Rihzan/pen/zYYRLEr)

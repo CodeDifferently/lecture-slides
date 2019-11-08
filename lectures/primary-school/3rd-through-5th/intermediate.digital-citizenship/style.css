@@ -1,0 +1,19 @@
+.image-size-twothirds {
+    width: 66%;
+    height: auto;
+}
+
+.image-size-half {
+    width: 50%;
+    height: auto;
+}
+
+.image-size-onethird {
+    width: 33%;
+    height: auto;
+}
+
+.image-size-onequarter {
+    width: 25%;
+    height: auto;
+}
