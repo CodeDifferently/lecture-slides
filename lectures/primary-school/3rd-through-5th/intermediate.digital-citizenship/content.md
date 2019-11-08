@@ -240,7 +240,7 @@ is unique to you.
 #### What is Cyberbullying?
 * The use of electronic communication to bully a person,  by sending messages of an intimidating or threatening nature.
 
-<img src="cyberbullying.png">
+<img src="img/cyberbullying.png">
 
 -
 
@@ -253,13 +253,13 @@ your family and friends will not be the same with other people.
 
 #### Same Phrase, Different Tone
 * Imagine someone yelling in an angry tone, "Have a nice day!!!". How would that make you feel?
-<img src="cyber-yelling-pc.jpg">
+<img src="img/cyber-yelling-pc.jpg">
 
 -
 
 #### Same Phrase, Different Tone
 * Now imagine someone saying the same phrase but with a pleasant tone and a smile. How would that make you feel?
-<img src="smiling-computer.jpg">
+<img src="img/smiling-computer.jpg">
 
 
 -
@@ -298,7 +298,7 @@ that can help.
 * Pause and think about the situation. Sending a positive response to the person being cyberbullied can give them strength
 and help them to feel better.
 * Share with the person the step they should take to end the cyberbullying.
-* If the cyberbullying is too severe, immediately go to an adult you trust for assistance. 
+* If the cyberbullying is too severe, immediately go to an adult you trust for assistance.
 
 
 -
