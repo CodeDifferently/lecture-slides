@@ -247,7 +247,7 @@ is unique to you.
 #### The Power of Words
 * Words can be interpreted differently by different people. We might say something to be funny, but someone may take it
 seriously, and it may hurt their feelings.
-<img src="power-of-words.png">
+<img src="img/power-of-words.png">
 
 -
 
@@ -266,23 +266,23 @@ seriously, and it may hurt their feelings.
 
 #### How to respond to Cyberbullying
 * What are some ways to respond to cyberbullying?
-<img src="stop-sign.jpg">
+<img src="img/stop-sign.jpg">
 -
 
 #### Do not respond
 * A cyberbully's intention is not only to hurt another person's feelings but to also get a response.
 * Refusing to respond to a cyberbully allows you to uphold yourself to a higher standard than them.
 * Logging off the website, app, or game at the moment of cyberbullying may help as well.
-<img src="no-convo.png">
+<img src="img/no-convo.png">
 
 -
 #### Block the Cyberbully
 * Blocking the cyberbully is one way to prevent the person from sending you messages in the future.
-<img src="block-bully.jpg">
+<img src="img/block-bully.jpg">
 -
 #### Tell an Adult
 * If you encounter a cyberbully that does not stop, it is important to tell an adult you trust for assistance.
-<img src="tell-adult.jpg">
+<img src="img/tell-adult.jpg">
 
 
 -
@@ -290,7 +290,7 @@ seriously, and it may hurt their feelings.
 * In certain cases where the cyberbullying is severe and requires more action than blocking the bully, you may have to save the evidence.
 * Taking a screenshot of the conversation between you and the bully will help an adult investigate or share the information with someone
 that can help.
-<img src="save-evidence.jpg">
+<img src="img/save-evidence.jpg">
 
 -
 #### Standing up for others
@@ -298,7 +298,7 @@ that can help.
 and help them to feel better.
 * Share with the person the step they should take to end the cyberbullying.
 * If the cyberbullying is too severe, immediately go to an adult you trust for assistance.
-<img src="stand-for-others.png">
+<img src="img/stand-for-others.png">
 
 -
 -
