@@ -20,7 +20,7 @@
 * Used to create displays of content information on a webpage
   * These displays are called _web-elements_
 * Tells browser how to display content
-
+* HTML elements are represented by `<>` tags
 
 
 
@@ -34,6 +34,11 @@
 * 2014 - HTML5 is invented
 
 
+-
+-
+### Web Browsers
+* The purpose of a web browser is to read HTML documents and display them.
+* Browsers do not display HTML tags, but they used them to determine how to display the document.
 
 
 -
@@ -57,8 +62,3 @@
   * Requests access using provided information
 * Clicking a button
 * Clicking a link
-
-
--
-### How do I view HTTP messages being sent?
-* Developer tools embedded in browser (demo)
