@@ -230,3 +230,4 @@
 * ***Processing Js***
 * [Intro to js](lectures/javascript/intro-to-javascript/lecture.html)
 * [Variables](lectures/javascript/variables/lecture.html)
+* [String & Text](lectures/javascript/strings-and-text/lecture.html)
