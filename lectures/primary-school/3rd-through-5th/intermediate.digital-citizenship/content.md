@@ -229,6 +229,76 @@ is unique to you.
 -
 -
 ### Cyberbullying
+* What is Cyberbullying?
+* The Power of Words
+* How to respond to Cyberbullying
+
+
+-
+-
+
+#### What is Cyberbullying?
+* The use of electronic communication to bully a person,  by sending messages of an intimidating or threatening nature.
+
+<img src="img/cyberbullying.png">
+
+-
+
+#### The Power of Words
+* Words can be interpreted differently by different people. We might say something to be funny, but someone may take it
+seriously, and it may hurt their feelings.
+<img src="img/power-of-words.png">
+
+-
+
+#### Same Phrase, Different Tone
+* Imagine someone yelling in an angry tone, "Have a nice day!!!". How would that make you feel?
+<img src="img/cyber-yelling-pc.jpg">
+
+-
+
+#### Same Phrase, Different Tone
+* Now imagine someone saying the same phrase but with a pleasant tone and a smile. How would that make you feel?
+<img src="img/smiling-computer.jpg">
+
+
+-
+
+#### How to respond to Cyberbullying
+* What are some ways to respond to cyberbullying?
+<img src="img/stop-sign.jpg">
+-
+
+#### Do not respond
+* A cyberbully's intention is not only to hurt another person's feelings but to also get a response.
+* Refusing to respond to a cyberbully allows you to uphold yourself to a higher standard than them.
+* Logging off the website, app, or game at the moment of cyberbullying may help as well.
+<img src="img/no-convo.png">
+
+-
+#### Block the Cyberbully
+* Blocking the cyberbully is one way to prevent the person from sending you messages in the future.
+<img src="img/block-bully.jpg">
+-
+#### Tell an Adult
+* If you encounter a cyberbully that does not stop, it is important to tell an adult you trust for assistance.
+<img src="img/tell-adult.jpg">
+
+
+-
+#### Save the Evidence
+* In certain cases where the cyberbullying is severe and requires more action than blocking the bully, you may have to save the evidence.
+* Taking a screenshot of the conversation between you and the bully will help an adult investigate or share the information with someone
+that can help.
+<img src="img/save-evidence.jpg">
+
+-
+#### Standing up for others
+* Pause and think about the situation. Sending a positive response to the person being cyberbullied can give them strength
+and help them to feel better.
+* Share with the person the step they should take to end the cyberbullying.
+* If the cyberbullying is too severe, immediately go to an adult you trust for assistance.
+<img src="img/stand-for-others.png">
 
 -
 -

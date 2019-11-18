@@ -14,7 +14,7 @@
 * Names
 * Attributes
 * Attribute values
-* Default values
+* Opening and Closing tags
 
 
 
@@ -41,12 +41,29 @@
 * Very specific information for a tag attribute
 * Should always be enclosed in double quotes or single quotes
 
+
 -
 ##### Example
-* <p id="quickRed" color="#ff0000"> paragraph will be red because of the attribute and value we gave it </p>
+* <p  color="#ff0000"> paragraph will be red because of the attribute and value we gave it </p>
 * `<p color="#ff0000">`
+
 
 -
 -
-### Default Values
-* What the tag will do if no attributes with values are specified.
+
+### Opening and Closing Tags
+* All elements have as opening tag with the same name of the element at the beginning.
+* Attributes and their value are added in the opening tag.
+* The content that follows the opening tag is the child of the element.
+* The closing tag has the name of the element with a forward slash before it.
+
+
+-
+#####Example
+<img src="img/open-close-tag.png">
+
+
+-
+#### Self-Closing Tags
+* Some elements do not contain content or children and do not need a closing tag.
+* `<img>` tags do not have a closing tag.
