@@ -2,24 +2,6 @@
 
 
 
-
-
-
-
-
--
--
-## Lecture Overview
-* What makes a good Digital Citizen?
-* Digital Footprint
-* Media Balance
-* Privacy & Security
-* Communication
-* Cyberbullying
-
-
-
-
 -
 -
 ### What makes a good digital citizen?
@@ -236,7 +218,6 @@ is unique to you.
 
 -
 -
-
 #### What is Cyberbullying?
 * The use of electronic communication to bully a person,  by sending messages of an intimidating or threatening nature.
 
@@ -302,7 +283,32 @@ and help them to feel better.
 
 -
 -
-## Lecture Summary
-* Topic 1 Summary
-* Topic 2 Summary
-* Topic 3 Summary
+## Is it real or fake??????
+* Why do people alter digital photos and videos?
+* What are some ways people alter photos?
+
+-
+### Why do people alter digital photos and videos?
+
+-
+#### Some people alter photos to make enhancements
+* People may think certain features of their face are flaws and make alterations to hide them.
+<img src="img/before-after-britney.jpg">
+
+-
+#### A business may enhance an image to attract customers
+* A business that sells food may make enhancements to their food to gain more customers.
+<img src="img/pretty-hardees.png">
+
+-
+#### Old photographs may be restored
+* There was a time when photos were only developed in black and white. Restoration can add color.
+<img src="img/restoration-photo.jpg">
+
+
+-
+### What are some ways people alter photos?
+
+-
+#### People may add different elements to their photos
+* Adding text to a photo
