@@ -281,8 +281,12 @@ and help them to feel better.
 * If the cyberbullying is too severe, immediately go to an adult you trust for assistance.
 <img src="img/stand-for-others.png">
 
+
 -
 -
+
+
+
 ## Is it real or fake??????
 * Why do people alter digital photos and videos?
 * What are some ways people alter photos?
@@ -312,3 +316,47 @@ and help them to feel better.
 -
 #### People may add different elements to their photos
 * Adding text to a photo
+<img src="img/writing-pic.png">
+
+-
+#### Another image can be added to a picture
+
+<img src="img/dinosaur-bridge.jpg">
+
+-
+
+#### A tint can be added to a photo
+
+<img src="img/sepia-tint.jpg">
+
+-
+
+### Activity One
+* What are some the changes that have been made in the second picture?
+* Why do you think those changes were made?
+<img src="img/two-pics.png">
+
+-
+
+### Activity Two
+* How was this photo altered?
+* Why do you think this photo was altered? What do you think they were trying to accomplish?
+
+<img src="img/fake-pic.jpg">
+
+
+-
+-
+
+## The Good and The Bad of Social Interaction
+
+-
+
+### What does "social interaction" mean??
+<p class="fragment fade-in"> The way people act and talk with each other</p>
+
+-
+
+#### What are some ways you interact with family and friends?
+
+<img src="img/good-ineract.png">
