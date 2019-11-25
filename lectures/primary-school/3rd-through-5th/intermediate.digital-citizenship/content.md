@@ -297,7 +297,7 @@ and help them to feel better.
 -
 #### Some people alter photos to make enhancements
 * People may think certain features of their face are flaws and make alterations to hide them.
-<img src="img/before-after-britney.jpg">
+<img src="img/befor-after-britney.jpg">
 
 -
 #### A business may enhance an image to attract customers
