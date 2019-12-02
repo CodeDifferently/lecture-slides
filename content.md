@@ -231,3 +231,5 @@
 * [Intro to js](lectures/javascript/intro-to-javascript/lecture.html)
 * [Variables](lectures/javascript/variables/lecture.html)
 * [String & Text](lectures/javascript/strings-and-text/lecture.html)
+* [Functions](lectures/javascript/functions/lecture.html)    
+* [Conditionals](lectures/javascript/conditionals/lecture.html)
