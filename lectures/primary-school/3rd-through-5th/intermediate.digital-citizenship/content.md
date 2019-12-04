@@ -358,5 +358,33 @@ and help them to feel better.
 -
 
 #### What are some ways you interact with family and friends?
+* Think about how you interact with them face to face.
+* What about when you're online?
+<img src="img/good-interact.png">
 
-<img src="img/good-ineract.png">
+
+-
+
+#### Let's watch this video and discuss the interactions that take place.
+<p class="fragment fade-in"> What interactions took place? Who talked to whom and what did they say?</p>
+<p class="fragment fade-in"> Were the interactions positive and fun or negative and mean?</p>
+
+
+
+-
+-
+
+## The Rights and Responsibility of a Creator
+* People often use images that are online for various reasons. But most people do not understand which images are OK to use and which images are not.
+
+
+-
+
+### What is a creator???
+<p class="fragment fade-in"> Someone who creates something such as a photo, song, or even food.</p>
+
+-
+
+#### Name something you have created.
+
+-
