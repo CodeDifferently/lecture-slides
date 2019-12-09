@@ -391,3 +391,4 @@ and help them to feel better.
 -
 
 #### Copyright
+* Do you know what © means?
