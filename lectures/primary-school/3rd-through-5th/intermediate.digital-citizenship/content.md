@@ -349,6 +349,7 @@ and help them to feel better.
 -
 
 ## The Good and The Bad of Social Interaction
+<img src="img/rubik-social-media.png">
 
 -
 
@@ -388,3 +389,5 @@ and help them to feel better.
 #### Name something you have created.
 
 -
+
+#### Copyright
