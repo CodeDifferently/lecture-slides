@@ -281,7 +281,7 @@ h2{
 -
 #### Specificity Chart
 
-<img src="specificity-chart.png">
+<img src="specificty-chart.png">
 
 
 -
@@ -311,7 +311,7 @@ body {
 -
 
 #### Difference Between Serif and Sans-serif
-<img src="sans-serif.png">
+<img src="sans-serif.gif">
 
 
 -
