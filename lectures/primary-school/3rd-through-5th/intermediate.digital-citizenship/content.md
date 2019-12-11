@@ -391,4 +391,6 @@ and help them to feel better.
 -
 
 #### Copyright
-* Do you know what © means?
+* Do you know what symbol © means?
+<p class="fragment fade-in"> This symbol means the creator has legal protection over the things they create.</p>
+* If you want to use an image or video online that has the © symbol, you must contact the creator and ask for permission

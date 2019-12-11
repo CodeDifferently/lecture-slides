@@ -21,7 +21,7 @@
 -
 ### Nesting
 * HTML is structured by nesting elements inside other elements. This is done by placing elements inside other containing tags.
-* For example, the <p> nested inside of the <body> tags is a “child” or a “descendent” of the body.
+* For example, the `<p>` nested inside of the <body> tags is a “child” or a “descendent” of the body.
 ``` HTML
 <body>
 	<p>A paragraph inside the body tag</p>
@@ -30,7 +30,7 @@
 
 -
 #### The `<html>` tag
-* Like a sandwich, the HTML document has open and closing tags
+* Like a sandwich, the HTML document has opening and closing tags
 * `<html>...</html>`
 * Everything in an HTML document is surrounded by <html> tag
 
@@ -44,7 +44,7 @@
 -
 -
 #### The `<head>` tag
-* Follows the <html> tag and has open and closing tags
+* Follows the `<html>` tag and has opening and closing tags
 * `<head>...</head>`
 * Contains the title and metadata information about the page
 * Meta information is mostly invisible to the user, but has many purposes, like providing information to search engines.
@@ -61,9 +61,9 @@
 -
 -
 ### The `<body>` tag
-* Follows the <head> tag and has open and closing tags
+* Follows the `<head>` tag and has open and closing tags
 * `<body>...</body>`
-* Holds the visible content of a webpage
+* Everything that appears on a webpage is wrapped in the `<body>` tag.
 * Headings, paragraphs, lists, quotes, images, and links are just a few of the elements that can be contained within the body tag.
 
 ``` HTML
@@ -94,19 +94,25 @@
 
 -
 #### Paragraphs
-* This element, with open and closing tags, will allow you to create paragraphs.
+* This element, with opening and closing tags, will allow you to create paragraphs.
 * `<p>...</p>`
 * The browser does not care about line breaks or tabs in your code. Use the `<p>`tag to split lines of text displayed on the page.
 
 ``` HTML
-<body>
-	<p>A paragraph inside the body tag</p>
-</body>
+<p> Words of text </p>
+
+<p>
+	A
+	paragraph
+	inside the body tag
+</p>
+
 ```
 
 -
 #### Horizonal Line Break
-* This element represents a sectional break between paragraphs. It can be used as an indicator when changing a subject within as section. `<hr>`
+* This element represents a sectional break between paragraphs. It can be used as an indicator when changing a subject within as section.
+`<hr>`
 
 ``` HTML
 <html>
@@ -123,8 +129,8 @@
 
 -
 #### Single Line Break     
-* Use the `<br />` tag to add a single line of text without starting a new paragraph.
-* The `<br />` element is an empty HTML element. It has no end tag.
+* Use the `<br>` tag to add a single line of text without starting a new paragraph.
+* The `<br>` element is an empty HTML element. It has no closing tag.
 ```HTML
 <html>
   <head>
@@ -133,27 +139,26 @@
   <body>
     <p>This is a paragraph.</p>
       <p>This is another paragraph. </p>
-    <p>This is <br /> a line break </p>
+    <p>This is <br> a line break </p>
   </body>
 </html>
 ```
 
 -
 #### Images
-* The image element has two required attributes: src and alt
-* "src" of Source attribute tells the browser what image goes in the tag and where to find it
-* "alt" or alternative text gives a description of the image and is needed on image tags if the image is not visible
-* Three type of image files are used in HTML: .jpg(JPEG), .gif(GIF), .png(PINGs)
+* The image element has two required attributes: "src" and "alt"
+* "src" = Source and  specifies location of the image
+* "alt" = alternative text and give gives description of the image when the page load incorrectly
 
 ``` HTML
-<img src="image.jpg" alt="Your image">
+<img src="image.jpg" alt="Evergreen Tree">
 ```
 
 
 -
 -
 ### Links
-* Links are defined in HTML with the <a> element
+* Links are defined in HTML with the `<a>` element
 * The "href" attribute defines the link's destination address
 * Three types of links that can be used in HTML:
 * Absolute, Relative, and Anchor

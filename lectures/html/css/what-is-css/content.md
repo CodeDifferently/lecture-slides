@@ -308,6 +308,7 @@ body {
     font-family: serif;
 }
 ```
+-
 
 #### Difference Between Serif and Sans-serif
 <img src="sans-serif.png">
@@ -349,10 +350,15 @@ p {
 * Colors in CSS can be specified using
   * a color name - `red`
   * a HEX value - `#ff0000`
-  * an RGB or RGBA value - `rgb(255)`
+  * an RGB (red, green, blue)  - `rgb(255)`
 
 ```CSS
 p {color: red;}
+
+h1{color: #ff0000; }
+
+h2 {color: rgb(rgb(255, 0, 0);}
+
 ```
 
 
