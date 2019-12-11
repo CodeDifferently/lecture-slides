@@ -277,12 +277,6 @@ h2{
 }
 ```
 
--
--
-#### Specificity Chart
-
-<img src="specificty-chart.png">
-
 
 -
 -
@@ -308,6 +302,7 @@ body {
     font-family: serif;
 }
 ```
+-
 -
 
 #### Difference Between Serif and Sans-serif
