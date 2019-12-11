@@ -202,11 +202,3 @@
 ```HTML
 <a href="mailto: email@youremail.com">Email Us!</a>
 ```
-
--
--
-## Lecture Summary
-* DOCTYPE : Tells the browser which version of the markup language the page is using
-* Nesting : The placement of elements inside of other containing tags
-* `<body>` : Contains all the visible content of a webpage. What elements can be contained inside of the body tag?
-* Links : Three different types of links. Relative, Absolute, and Anchor

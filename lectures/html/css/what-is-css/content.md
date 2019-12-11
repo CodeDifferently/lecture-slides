@@ -352,7 +352,7 @@ p {color: red;}
 
 h1{color: #ff0000; }
 
-h2 {color: rgb(rgb(255, 0, 0);}
+h2 {color: rgb(255, 0, 0);}
 
 ```
 
@@ -366,7 +366,7 @@ h2 {color: rgb(rgb(255, 0, 0);}
 p {
     background-color: black;
     background-color: #000000;
-    background-color: rgba(0,0,0);
+    background-color: rgb(0,0,0);
 }
 ```
 
