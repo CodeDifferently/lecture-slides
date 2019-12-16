@@ -35,7 +35,7 @@
     * [simple control flow](lectures/primary-school/0th-through-2nd/simple.control-flow/lecture.html)
     * [simple digital citizenship](lectures/primary-school/0th-through-2nd/simple.digital-citizenship/lecture.html)
     * [simple objects and compositon](lectures/primary-school/0th-through-2nd/simple.objects-and-composition/lecture.html)
-    
+
 * **Grades 3rd - 5th**
     * [simple binary states](lectures/primary-school/3rd-through-5th/simple.binary-states/lecture.html)
     * [simple block programming](lectures/primary-school/3rd-through-5th/simple.block-programming/lecture.html)
@@ -44,10 +44,10 @@
     * [intermediate control flow](lectures/primary-school/3rd-through-5th/intermediate.control-flow/lecture.html)
     * [intermediate digital citizenship](lectures/primary-school/3rd-through-5th/intermediate.digital-citizenship/lecture.html)
     * [intermediate objects and composition](lectures/primary-school/3rd-through-5th/interemediate.objects-and-composition/lecture.html)
-    
 
 
-   
+
+
 * **Grades 6th - 8th**
     * [advanced binary states](lectures/primary-school/6th-through-8th/advanced.binary-states/lecture.html)
     * [advanced block programming](lectures/primary-school/6th-through-8th/advanced.block-programming/lecture.html)
@@ -67,9 +67,9 @@
     * [intermediate digital citizenship](lectures/primary-school/9th-through-12th/intermediate.digital-citizenship/lecture.html)
     * [intermediate functions and methods](lectures/primary-school/9th-through-12th/advanced.functions-and-methods/lecture.html)
     * [intermediate telemetry](lectures/primary-school/9th-through-12th/intermediate.telemetry/lecture.html)
-    
 
-    
+
+
 
 
 
@@ -106,7 +106,8 @@
 * [How to Fork](lectures/version-control-systems/git/how-to-fork/lecture.html)
 * [Creating a new Personal Repository](lectures/version-control-systems/git/creating-a-new-repository/lecture.html)
 
-
+#### Basic Computer Navigation
+* [Power-Up and Opening a Program](lectures/computer-navigation/basic-computer-navigation/lecture.html)
 
 
 
@@ -152,7 +153,7 @@
     * [design patterns - structural](lectures/java/design-principles/design-patterns-structural/lecture.html)
     * [design patterns - behavioral](lectures/java/design-principles/design-patterns-behavioral/lecture.html)
 
-* **Intro to Web Development** 
+* **Intro to Web Development**
     * [restful architecture](lectures/java/web/restful/lecture.html)
     * [restful Spring](lectures/java/web/restful-spring/lecture.html)
     * [Spring dependency injection](lectures/java/web/spring-dependency-injection/lecture.html)
@@ -222,7 +223,7 @@
 * **Online Code Testing**
     * Hackerrank
         * [creating a test](./hackerrank-for-work-landing-page.png)
-    
+
 
 <hr><hr><hr>
 
