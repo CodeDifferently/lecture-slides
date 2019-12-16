@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 -
 -
 ## HTML tags are made of few basic components

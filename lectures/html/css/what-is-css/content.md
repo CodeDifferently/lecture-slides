@@ -25,7 +25,7 @@
 -
 #### CSS Syntax
 
-<img src="css-syntax.png">
+<img src="img/css-syntax.png">
 
 * CSS selectors points to the HTML elements you want to style
 * A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces
@@ -221,7 +221,7 @@ span {
 * If two CSS selectors apply to the same element, the one with higher specificity wins
 * There are 4 categories which define the specificity level of a selector
 * Each category has a certain number of points
-
+<img src="img/specificity-chart.png">
 
 -
 -
@@ -306,7 +306,7 @@ body {
 -
 
 #### Difference Between Serif and Sans-serif
-<img src="sans-serif.gif">
+<img src="img/sans-serif.gif">
 
 
 -
