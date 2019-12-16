@@ -1,4 +1,4 @@
-# Title of Lecture
+# Basic Computer Navigation
 
 
 
@@ -9,10 +9,34 @@
 
 -
 -
-## Lecture Overview
-* Topic 1
-* Topic 2
-* Topic 3
+## Start Up
+* When a computer is powered on, it goes through a "boot-up" process. The computer powers different components of the computer such as the
+hardisks, motherboard, processors, etc. The OS or operating system is booted as well.
+* Once the computer is fully booted, it may ask you to login depending on the security on the computer and then show the Desktop.
+
+
+-
+-
+
+
+## Desktop
+* The desktop is the main working space on your computer screen. It is where the icons for the files and folders on your
+hard drive is displayed. You can also open windows on your desktop and browse the directories on your computer.
+<img src="img/desktop.png">
+
+
+-
+-
+
+## Opening a Program
+* You can access programs many ways on a computer. Most common ways to access a program are to click them if their icon is on the desktop
+or by clicking the Window's button and getting a list of all programs and applications.
+<img src="img/windows-button.png">  <img src="img/start-menu.png">
+
+-
+
+* Programs and applications can also be accessed from the Taskbar on the Desktop.
+<img src="img/taskbar.png">
 
 
 
