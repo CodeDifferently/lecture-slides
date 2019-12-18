@@ -51,4 +51,4 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 
 #### Anatomy of a Window
 * When you open a program a "window" appears. There are parts of a window that perform different tasks.
-<img style="margin-left: 50%;" src="img/anatomy-of-window.png">
+<img style="margin-left: 300px;" src="img/anatomy-of-window.png">
