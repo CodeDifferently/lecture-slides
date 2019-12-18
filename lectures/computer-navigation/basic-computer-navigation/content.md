@@ -53,3 +53,10 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 #### Anatomy of a Window
 * When you open a program a "window" appears. There are parts of a window that perform different tasks.
 <img src="img/anatomy-of-window.png">
+
+
+#### Copying and Pasting
+* First, highlight the text or image you would like to copy
+* Second, right-click the selected text and select Copy from the menu.
+  * The selected texted copied has been moved to a temporary area known as the Clipboard
+* Last, right-click where you want the text to appear and select Paste.
