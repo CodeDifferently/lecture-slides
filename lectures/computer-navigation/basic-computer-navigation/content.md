@@ -40,6 +40,7 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 
 #### Opening a Program
 * Programs can be accessed by clicking the icon on the desktop or by clicking the Window's button and getting a list of all programs.
+
 <img src="img/windows-button-icon.png">  
 
 -
