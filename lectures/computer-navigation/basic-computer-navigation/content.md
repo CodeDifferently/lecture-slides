@@ -32,8 +32,7 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 
 
 ## Desktop
-* The desktop is the main working space on your computer screen. It is where the icons for the files and folders on your
-hard drive is displayed. You can also open windows on your desktop and browse the directories on your computer.
+* The desktop is the main working space on your computer screen. Icons for the files and folders on your hard drive are displayed.
 <img src="img/desktop.png">
 
 
@@ -41,10 +40,9 @@ hard drive is displayed. You can also open windows on your desktop and browse th
 -
 
 ## Opening a Program
-* You can access programs many ways on a computer. Most common ways to access a program are to click them if their icon is on the desktop
-or by clicking the Window's button and getting a list of all programs and applications.
+* Programs can be accessed by clicking the icon on the desktop or by clicking the Window's button and getting a list of all programs
+and applications.
 <img src="img/windows-button.png">  <img src="img/start-menu.png">
-
 -
 
 * Programs and applications can also be accessed from the Taskbar on the Desktop.
