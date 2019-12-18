@@ -42,10 +42,11 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 ## Opening a Program
 * Programs can be accessed by clicking the icon on the desktop or by clicking the Window's button and getting a list of all programs
 and applications.
+
 <img src="img/windows-button.png">  <img src="img/start-menu.png">
 -
 
-* Programs and applications can also be accessed from the Taskbar on the Desktop.
+* Programs and applications  can also be accessed from the Taskbar if they are pinned to it.
 <img src="img/taskbar.png">
 
 -
