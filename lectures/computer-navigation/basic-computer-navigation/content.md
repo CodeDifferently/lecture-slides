@@ -2,16 +2,28 @@
 
 
 
+-
+-
+## Mouse Basics
+* Left Button is the most used button. It is used to move the cursor and select items.
+  * Single Click- used to select items on the screen
+  * Double Click- Two clicks in rapid succession. Used to open programs
+  * Click & Drag - Click and hold the cursor on the item and while holding, move the item to the desired location. Release once the item is placed.
+* Right Button is used to bring up a special menu which allows you to cut, copy, paste, more.
+* Scroll Wheel is used to scroll up and down a page or menu.
 
 
+-
 
+### Mouse Anatomy
+<img src="img/anatomy-of-mouse.png">
 
 
 -
 -
 ## Start Up
 * When a computer is powered on, it goes through a "boot-up" process. The computer powers different components of the computer such as the
-hardisks, motherboard, processors, etc. The OS or operating system is booted as well.
+CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 * Once the computer is fully booted, it may ask you to login depending on the security on the computer and then show the Desktop.
 
 
@@ -38,137 +50,8 @@ or by clicking the Window's button and getting a list of all programs and applic
 * Programs and applications can also be accessed from the Taskbar on the Desktop.
 <img src="img/taskbar.png">
 
-
-
-
-
-
-
-
-
-
-
-
 -
--
-### Topic 1
-* Sub-topic 1A
-* Sub-topic 1B
-* Sub-topic 1C
 
--
-#### Sub-topic 1A
-* Discussion point 1A.1
-* Discussion point 1A.2
-* Discussion point 1A.3
-
-
--
-#### Sub-topic 1B
-* Discussion point 1B.1
-* Discussion point 1B.2
-* Discussion point 1B.3
-
-
--
-#### Sub-topic 1C
-* Discussion point 1C.1
-* Discussion point 1C.2
-* Discussion point 1C.3
-
-
-
-
-
-
-
-
-
-
-
--
--
-### Topic 2
-* Sub-topic 2A
-* Sub-topic 2B
-* Sub-topic 2C
-
--
-#### Sub-topic 2A
-* Discussion point 2A.1
-* Discussion point 2A.2
-* Discussion point 2A.3
-
-
--
-#### Sub-topic 2B
-* Discussion point 2B.1
-* Discussion point 2B.2
-* Discussion point 2B.3
-
-
--
-#### Sub-topic 2C
-* Discussion point 2C.1
-* Discussion point 2C.2
-* Discussion point 2C.3
-
-
-
-
-
-
-
-
-
-
-
-
-
--
--
-### Topic 3
-* Sub-topic 3A
-* Sub-topic 3B
-* Sub-topic 3C
-
-
-
--
-#### Sub-topic 3A
-* Discussion point 3A.1
-* Discussion point 3A.2
-* Discussion point 3A.3
-
-
--
-#### Sub-topic 3B
-* Discussion point 3B.1
-* Discussion point 3B.2
-* Discussion point 3B.3
-
-
--
-#### Sub-topic 3C
-* Discussion point 3C.1
-* Discussion point 3C.2
-* Discussion point 3C.3
-
-
-
-
-
-
-
-
-
-
-
-
-
--
--
-## Lecture Summary
-* Topic 1 Summary
-* Topic 2 Summary
-* Topic 3 Summary
+## Anatomy of a Window
+* When you open a program a "window" appears. There are parts of a window that perform different tasks. Below is an image of a window and its parts.
+<img src="img/anatomy-of-window.png">
