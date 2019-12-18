@@ -4,7 +4,7 @@
 
 -
 -
-## Mouse Basics
+#### Mouse Basics
 * Left Button is the most used button. It is used to move the cursor and select items.
   * Single Click- used to select items on the screen
   * Double Click- Two clicks in rapid succession. Used to open programs
@@ -15,13 +15,13 @@
 
 -
 
-### Mouse Anatomy
+#### Mouse Anatomy
 <img src="img/anatomy-of-mouse.png">
 
 
 -
 -
-## Start Up
+#### Start Up
 * When a computer is powered on, it goes through a "boot-up" process. The computer powers different components of the computer such as the
 CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 * Once the computer is fully booted, it may ask you to login depending on the security on the computer and then show the Desktop.
@@ -31,7 +31,7 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 -
 
 
-## Desktop
+#### Desktop
 * The desktop is the main working space on your computer screen. Icons for the files and folders on your hard drive are displayed.
 <img src="img/desktop.png">
 
@@ -39,7 +39,7 @@ CPU, motherboard, processors, etc. The OS or operating system is booted as well.
 -
 -
 
-## Opening a Program
+#### Opening a Program
 * Programs can be accessed by clicking the icon on the desktop or by clicking the Window's button and getting a list of all programs
 and applications.
 
@@ -51,6 +51,6 @@ and applications.
 
 -
 
-## Anatomy of a Window
+#### Anatomy of a Window
 * When you open a program a "window" appears. There are parts of a window that perform different tasks. Below is an image of a window and its parts.
 <img src="img/anatomy-of-window.png">
