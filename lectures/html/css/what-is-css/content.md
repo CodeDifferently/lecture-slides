@@ -129,7 +129,7 @@ There are three ways to insert CSS
 
 ```HTML
 <head>
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 ```
 
@@ -220,7 +220,6 @@ span {
 #### CSS Specificity
 * If two CSS selectors apply to the same element, the one with higher specificity wins
 * There are 4 categories which define the specificity level of a selector
-* Each category has a certain number of points
 <img src="img/specificity-chart.png">
 
 -
