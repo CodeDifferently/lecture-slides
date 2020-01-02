@@ -34,7 +34,7 @@
     * [simple binary states](lectures/primary-school/0th-through-2nd/simple.binary-states/lecture.html)
     * [simple control flow](lectures/primary-school/0th-through-2nd/simple.control-flow/lecture.html)
     * [simple digital citizenship](lectures/primary-school/0th-through-2nd/simple.digital-citizenship/lecture.html)
-    * [simple objects and compositon](lectures/primary-school/0th-through-2nd/simple.objects-and-composition/lecture.html)
+    * [simple objects and composition](lectures/primary-school/0th-through-2nd/simple.objects-and-composition/lecture.html)
 
 * **Grades 3rd - 5th**
     * [simple binary states](lectures/primary-school/3rd-through-5th/simple.binary-states/lecture.html)
@@ -63,7 +63,7 @@
 * **Grades 9th - 12th**
     * [advanced digital citizenship](lectures/primary-school/9th-through-12th/advanced.digital-citizenship/lecture.html)
     * [intermediate classes](lectures/primary-school/9th-through-12th/intermediate.classes/lecture.html)
-    * [intemediate data visualization](lectures/primary-school/9th-through-12th/intermediate.data-visualization/lecture.html)
+    * [intermediate data visualization](lectures/primary-school/9th-through-12th/intermediate.data-visualization/lecture.html)
     * [intermediate digital citizenship](lectures/primary-school/9th-through-12th/intermediate.digital-citizenship/lecture.html)
     * [intermediate functions and methods](lectures/primary-school/9th-through-12th/advanced.functions-and-methods/lecture.html)
     * [intermediate telemetry](lectures/primary-school/9th-through-12th/intermediate.telemetry/lecture.html)
