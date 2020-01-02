@@ -11,7 +11,6 @@
 -
 ## Lecture Overview
 * HTML forms are used to collect information from the user
-* The '<form>' element  with opening and closing tags
 * An HTML form contains different types of input elements.
 * Use
 
@@ -26,18 +25,18 @@
 
 -
 -
-### The '<input>' Element
+### The `<input>` Element
 * Input elements is the most important form element and be displayed in several ways depending on the type attribute.
-* Text Input
-* Radio Button input
-* Submit Button
+    * Text Input
+    * Radio Button input
+    * Submit Button
 
 
 
 
 -
 #### Text Input
-* '<input type = "text">'
+* `<input type = "text">`
 * Specifies a one-line input field for text input
 
 ```HTML
@@ -56,13 +55,13 @@
 
 -
 #### Example
-<img src="name-form.png">
+<img src="img/name-form.png">
 
 
 
 -
 #### Radio Button Input
-* '<input type="radio">'
+* `<input type="radio">`
 * Radio buttons let a user select 1 of a certain number of choices
 
 ```HTML
@@ -78,13 +77,13 @@
 -
 #### Example
 
-<img src="gender-form.gif.png">
+<img src="img/radio-form.gif.png">
 
 
 
 -
 #### Submit Button
-* '<input type="submit">'
+* `<input type="submit">`
 * Defines a button for submitting form data to a form-handler
 * Form-handler is usually a server page with a script for processing input data
 * The form-handler is specified in the form's "action" attribute
@@ -103,7 +102,7 @@
 -
 #### Example
 
-<img src="submit-button.png">
+<img src="img/submit-button.png">
 
 
 
@@ -120,13 +119,15 @@
 ```
 
 
-
+-
 -
 ### The Target Attribute
-* Specifies if the submitted result will open in a new browser tab or in the current window
-* A value of "_self" means the form will be submitted in the current window
+* Specifies a name or a keyword that indicates where to display the response that is received after submitting the form
 
+```HTML
+<form action="/action_page.php" method="get" target="_blank">
 
+```
 
 
 

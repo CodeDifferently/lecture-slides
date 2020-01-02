@@ -15,8 +15,7 @@
 -
 ### Defining a Table
 * Tables are a way to represent information in a grid format
-*
-* Defined by the <table> with opening and closing tags
+* Defined by the `<table>` with opening and closing tags
 
 ```html
     <table>
@@ -27,13 +26,20 @@
 -
 ### Naming the Table
 * Defining the name of the table is done using the <caption> opening and closing tags
-* The <caption> tag must be inserted immediately after the <table> tags
-* There can only ONE <caption> tag specified
+* The `<caption>` tag must be inserted immediately after the <table> tags
+* There can only ONE `<caption>` tag specified
 
-```html
-    <table>
-      <caption>Title of you table</caption>
-    </table>
+```HTML
+<body>
+  <style>
+  table, th, td, caption {
+    border: 1px solid black;
+}
+  </style>
+  <table>
+    <caption>Title of you table</caption>
+  </table>
+</body>
 ```
 
 
@@ -41,10 +47,16 @@
 -
 ### Creating and Naming Columns
 * Tables are divided into as many rows needed for your data purposes
-* Rows are created using the <tr> opening and closing tags
-* Rows are named using the table header <th> opening and closing tags
+* Rows are created using the `<tr>` opening and closing tags
+* Rows are named using the table header `<th>` opening and closing tags
 
 ```html
+<body>
+  <style>
+  table, th, td, caption {
+    border: 1px solid black;
+}
+  </style>
     <table>
       <caption>Title of your table</caption>
       <tr>
@@ -52,7 +64,10 @@
         <th>Column header 2</th>
       </tr>
     </table>
+</body>
 ```
+
+
 
 -
 -
@@ -60,7 +75,13 @@
 * Table rows are divided into table columns(table data)
 * Columns are created using the <td> opening and closing tags
 
-```html
+```HTML
+<body>
+  <style>
+  table, th, td, caption {
+    border: 1px solid black;
+}
+  </style>
   <table>
     <caption>Title of your table</caption>
     <tr>
@@ -72,6 +93,7 @@
         <td>Data 2</td>
     </tr>
   </table>
+</body>
 ```
 
 
@@ -79,6 +101,12 @@
 -
 ### Example
 ```HTML
+<body>
+  <style>
+  table, th, td, caption {
+    border: 1px solid black;
+}
+  </style>
     <table>
       <caption>Title of you table</caption>
         <tr>
@@ -94,6 +122,7 @@
           <td>Data 4</td>
         </tr>
     </table>
+</body>
 ```
 
 
