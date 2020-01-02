@@ -39,6 +39,70 @@
 * CSS selectors are used to select HTML elements based on their element name, id, class, attribute, and more
 
 
+
+-
+-
+### How to insert CSS
+There are three ways to insert CSS
+* External Style Sheet
+* Internal Style Sheet
+* Inline style
+
+
+-
+-
+#### External Style Sheet
+* Able to change the look of a page with just one file which is easy to maintain and saves time
+* Each page must include a reference to the external style sheet file inside the `<link>` element. The `<link>` element goes inside the `<head>` section
+* The style sheet file must be saved with a .css extension.
+
+
+```HTML
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+```
+
+-
+#### The rel, type, and href attributes
+* The "rel" attribute is mandatory and specifies the relationship between the current document and the linked document
+* The "type" attribute specifies the media type of the linked document
+* The "href" attribute specifies the location of the linked document
+
+
+
+
+
+-
+-
+#### Internal Style Sheet
+* An internal stylesheet holds the CSS code for the webpage in the `<head>` section of the particular file
+* Only affects the page the code is inserted into
+* Not reusable
+
+```HTML
+<head>
+    <style>
+        body { background-color: blue; }
+        p { color: white; }
+    </style>
+</head>
+```
+
+-
+-
+#### Inline Style
+* The inline style is added as an HTML attribute
+* Good for an individual CSS change that you do not use repeatedly throughout the site
+* This is not a recommended approach
+
+```HTML
+<h1 style="font-size: 48px;">My headline</h1>
+```
+
+
+
+
 -
 -
 #### Element Selectors
@@ -110,57 +174,6 @@ ul li {
 ```
 
 
--
--
-### How to insert CSS
-There are three ways to insert CSS
-* External Style Sheet
-* Internal Style Sheet
-* Inline style
-
-
--
--
-#### External Style Sheet
-* Able to change the look of a page with just one file
-* Each page must include a reference to the external style sheet file inside the `<link>` element. The `<link>` element goes inside the `<head>` section
-* The style sheet file must be saved with a .css extension.
-* Easy to maintain and saves time
-
-```HTML
-<head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-```
-
--
--
-#### Internal Style Sheet
-* An internal stylesheet holds the CSS code for the webpage in the `<head>` section of the particular file
-* Only affects the page the code is inserted into
-* Not reusable
-
-```HTML
-<head>
-    <style>
-        body { background-color: blue; }
-        p { color: white; }
-    </style>
-</head>
-```
-
--
--
-#### Inline Style
-* The inline style is added as an HTML attribute
-* Good for an individual CSS change that you do not use repeatedly throughout the site
-* This is not a recommended approach
-
-```HTML
-<h1 style="font-size: 48px;">My headline</h1>
-```
-
-
 
 -
 -
@@ -211,7 +224,7 @@ span {
 
 ```HTML
 <p>I’m red, 18px, and bold.
-  <span>I am those and also italic.</span>
+  <span>I am red, 18px, bold, and also italic.</span>
 </p>
 ```
 
