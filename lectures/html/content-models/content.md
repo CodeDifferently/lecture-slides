@@ -11,7 +11,7 @@
 ## Content Models
 Content Model refers to the set of rules that define what type of content each element is allowed to have. Mostly, this translates into what other elements are allowed to be nested inside which other elements.
 * Block Level Elements
-* inline Elements
+* Inline Elements
 
 
 
@@ -25,7 +25,7 @@ Each element has two main aspects that make it different from another element.
 -
 -
 ### NON-SEMANTIC ELEMENTS
-div and span are called non-semantic elements. They don’t add any information for non-human readers. But they’re great when you only need to add styles!
+* `<div>` and `<span>` are called non-semantic elements. They don’t add any information for non-human readers. But they’re great when you only need to add styles!
 
 
 -
@@ -37,10 +37,10 @@ Block-level elements render (i.e., are displayed) to begin on a new line by defa
 -
 #### Examples of block level elements
 The `<div>` tag is a block-level division or section in an HTML document. It can  contain anything, but has no semantic value.
-```HTML 
-<div> 
+```HTML
+<div>
     <p> some content </p>
-<div> 
+<div>
 ```
 
 
@@ -55,5 +55,5 @@ Your code can have a whole bunch of inline elements, one after another, but they
 * has no semantic value
 
 ```HTML
-<p><span>Some</span> content. </p>
+<p>My mother has <span style="color:brown">brown</span> eyes.</p>
 ```
