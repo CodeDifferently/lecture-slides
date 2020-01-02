@@ -6,8 +6,8 @@
 ## Overview
 * Defining a table
 * Naming the table
-* Creating and naming columns
-* Creating columns
+* `<tr>` tag
+* `<td>` and `<th>` tags
 
 
 
@@ -37,7 +37,7 @@
 }
   </style>
   <table>
-    <caption>Title of you table</caption>
+    <caption>Monthly Savings</caption>
   </table>
 </body>
 ```
@@ -45,35 +45,64 @@
 
 -
 -
-### Creating and Naming Columns
+### `<tr>` Tag
 * Tables are divided into as many rows needed for your data purposes
 * Rows are created using the `<tr>` opening and closing tags
 * Rows are named using the table header `<th>` opening and closing tags
 
-```html
+```HTML
+
+<table>
+  <caption>Monthly Savings</caption>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+    </tr>
+</table>
+```
+
+-
+-
+
+
+### `<td>` and `<th>` Tags
+* The `<td>` tag defines a standard cell that contains data
+* The `<th>` tag defines an header cell or a title of a column
+```HTML
 <body>
   <style>
-  table, th, td, caption {
+  table, th, td {
     border: 1px solid black;
 }
   </style>
-    <table>
-      <caption>Title of your table</caption>
+  <table>
+    <caption>Monthly Savings</caption>
       <tr>
-        <th>Column header 1</th>
-        <th>Column header 2</th>
+        <th>Month</th>
+        <th>Savings</th>
       </tr>
-    </table>
+      <tr>
+        <td>January</td>
+        <td>$100</td>
+      </tr>
+  </table>
 </body>
 ```
 
+-
+-
+
+### How would we add another column to our table to track money spent?
+<p fragment="fade-in">1. Add another header cell using the `<th>` tag to give the column a title</p>
+<p fragment="fade-in">2. Add another standard cell using the `<td>` tag with the data
+
 
 
 -
--
-### Creating columns
-* Table rows are divided into table columns(table data)
-* Columns are created using the <td> opening and closing tags
 
 ```HTML
 <body>
@@ -83,47 +112,25 @@
 }
   </style>
   <table>
-    <caption>Title of your table</caption>
-    <tr>
-        <th>Column header 1</th>
-        <th>Column header 2</th>
-    </tr>
-    <tr>
-        <td>Data 1</td>
-        <td>Data 2</td>
-    </tr>
+    <caption>Monthly Savings</caption>
+      <tr>
+        <th>Month</th>
+        <th>Savings</th>
+        <th>Spent</th>
+      </tr>
+      <tr>
+        <td>January</td>
+        <td>$100</td>
+        <td>$250</td>
+
+      </tr>
   </table>
 </body>
 ```
 
 
--
--
-### Example
-```HTML
-<body>
-  <style>
-  table, th, td, caption {
-    border: 1px solid black;
-}
-  </style>
-    <table>
-      <caption>Title of you table</caption>
-        <tr>
-          <th>Column header 1</th>
-          <th>Column header 2</th>
-        </tr>
-        <tr>
-          <td>Data 1</td>
-          <td>Data 2</td>
-        </tr>
-        <tr>
-          <td>Data 3</td>
-          <td>Data 4</td>
-        </tr>
-    </table>
-</body>
-```
+
+
 
 
 -
