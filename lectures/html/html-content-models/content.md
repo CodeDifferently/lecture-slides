@@ -50,7 +50,7 @@ Inline elements render on the same line by default. These elements are restricte
 block-line element.
 
 -
-#### Examples of Inline Elements
+#### Example of Inline Elements
 Then `<span>` tag is inline division in an HTML document. It can contain any non-block content but has no semantic value.
 
 ```HTML
@@ -60,7 +60,7 @@ Then `<span>` tag is inline division in an HTML document. It can contain any non
 -
 -
 
-#### Example
+#### Check out this code...
 ```HTML
 <!doctype html>
 <html>
@@ -100,4 +100,7 @@ Following right after span 1 <span>*** SPAN 2: INSIDE div
 
 -
 ### Will it be the same or different??????
+
+
+-
 <p fragment="fade-in"><img src="img/example1.png"></p>
