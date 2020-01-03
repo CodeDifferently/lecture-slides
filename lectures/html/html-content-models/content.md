@@ -45,12 +45,12 @@ The `<div>` tag is a block-level division or section in an HTML document. It can
 
 
 -
-#### Inline Elements
+### Inline Elements
 Inline elements render on the same line by default. These elements are restricted to only contain other inline elements. It cannot wrap a
 block-line element.
 
 -
-### Examples of Inline Elements
+#### Examples of Inline Elements
 Then `<span>` tag is inline division in an HTML document. It can contain any non-block content but has no semantic value.
 
 ```HTML
@@ -85,6 +85,8 @@ Then `<span>` tag is inline division in an HTML document. It can contain any non
 <img src="img/example1.png">
 
 -
+
+#### Example
 ```HTML
 <!doctype html><html><head><meta charset="utf-8"><title>
 div and span elements</title></head><body><div>*** DIV
@@ -95,3 +97,7 @@ Following right after span 1 <span>*** SPAN 2: INSIDE div
 3 ***</span> Continue content of div 3 ***</div></body>
 </html>
 ```
+
+-
+### Will it be the same or different??????
+<p fragment="fade-in"><img src="img/example1.png"></p>
