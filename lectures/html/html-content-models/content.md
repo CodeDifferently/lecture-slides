@@ -46,14 +46,52 @@ The `<div>` tag is a block-level division or section in an HTML document. It can
 
 -
 #### Inline Elements
-Your code can have a whole bunch of inline elements, one after another, but they will all still be displayed on the same line. Having new line characters in the content or between the tags in your code won’t make any difference. Remember, HTML doesn’t care about new line characters, spaces, etc. All those space characters get translated into a single space anyway.
+Inline elements render on the same line by default. These elements are restricted to only contain other inline elements. It cannot wrap a
+block-line element.
 
 -
 ### Examples of Inline Elements
-* `<span>` tag is inline division in an HTML document.
-* It can contain any non-block content
-* has no semantic value
+Then `<span>` tag is inline division in an HTML document. It can contain any non-block content but has no semantic value.
 
 ```HTML
 <p>My mother has <span style="color:brown">brown</span> eyes.</p>
+```
+
+-
+-
+
+#### Example
+```HTML
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>div and span elements</title>
+</head>
+<body>
+  <div>*** DIV 1: Some content here ***</div>
+  <div>*** DIV 2: Following right after div 1 ***</div>
+  <span>*** SPAN 1: Following right after div 2 ***</span>
+  <div>
+    *** DIV 3: Following right after span 1
+    <span>*** SPAN 2: INSIDE div 3 ***</span>
+    Continue content of div 3 ***
+  </div>
+</body>
+</html>
+```
+
+-
+<img src="img/example1.png">
+
+-
+```HTML
+<!doctype html><html><head><meta charset="utf-8"><title>
+div and span elements</title></head><body><div>*** DIV
+1: Some content here ***</div><div>*** DIV 2:
+Following right after div 1 ***</div><span>*** SPAN 1:
+Following right after div 2 ***</span><div>*** DIV 3:
+Following right after span 1 <span>*** SPAN 2: INSIDE div
+3 ***</span> Continue content of div 3 ***</div></body>
+</html>
 ```
