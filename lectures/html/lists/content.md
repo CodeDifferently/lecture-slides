@@ -48,6 +48,16 @@
   </ul>
 ```
 
+-
+#### Squares
+```HTML
+  <ul style="list-style-type:square;">
+    <li>Gold</li>
+    <li>Red</li>
+    <li>Black</li>
+  </ul>
+```
+
 
 -
 -
