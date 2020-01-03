@@ -35,12 +35,12 @@ Block-level elements render (i.e., are displayed) to begin on a new line by defa
 * Block-level elements are allowed to wrap inline or other block-level elements.
 
 -
-#### Examples of block level elements
+#### Example of block level elements
 The `<div>` tag is a block-level division or section in an HTML document. It can  contain anything, but has no semantic value.
 ```HTML
 <div>
     <p> some content </p>
-<div>
+<div>  
 ```
 
 
@@ -51,7 +51,7 @@ block-line element.
 
 -
 #### Example of Inline Elements
-Then `<span>` tag is inline division in an HTML document. It can contain any non-block content but has no semantic value.
+The `<span>` tag is inline division in an HTML document. It can contain any non-block content but has no semantic value.
 
 ```HTML
 <p>My mother has <span style="color:brown">brown</span> eyes.</p>
@@ -103,4 +103,4 @@ Following right after span 1 <span>*** SPAN 2: INSIDE div
 
 
 -
-<p fragment="fade-in"><img src="img/example1.png"></p>
+<img src="img/example1.png">
