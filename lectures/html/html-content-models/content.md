@@ -30,12 +30,12 @@ Each element has two main aspects that make it different from another element.
 
 -
 -
-### Block Level Elements
+### Block-Level Elements
 Block-level elements render (i.e., are displayed) to begin on a new line by default. (You can change that behavior with CSS but we’re not talking about CSS at this point, yet.)
 * Block-level elements are allowed to wrap inline or other block-level elements.
 
 -
-#### Example of block level elements
+#### Example of block-level elements
 The `<div>` tag is a block-level division or section in an HTML document. It can  contain anything, but has no semantic value.
 ```HTML
 <div>
