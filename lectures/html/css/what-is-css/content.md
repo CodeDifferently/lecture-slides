@@ -17,12 +17,12 @@
 -
 ### What is CSS and why do we use it?
 * CSS stands for Cascading Style Sheets. They are stored in external CSS files
-* CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+* CSS describes how the HTML elements are to be styled
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
 
 -
-### Changing the Font Size in Word 
+### Changing the Font Size in Word
 * How do you change the font size for a Word document??
 
 -

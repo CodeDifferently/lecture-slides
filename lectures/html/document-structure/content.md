@@ -91,6 +91,20 @@
 <h5>Of</h5>
 <h6>Importance</h6>
 ```
+-
+#### Division
+* This element, with opening and closing tags, defines a division or a section in an HTML document
+* `<div>...</div>`
+
+```Html
+<div class="name">
+	<h1> This is your title </h1>
+</div>
+
+<div class="article">
+	<p> This is a sentence</p>
+</div>
+```
 
 -
 #### Paragraphs
