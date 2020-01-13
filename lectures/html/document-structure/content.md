@@ -110,7 +110,7 @@
 ```
 
 -
-#### Horizontal Line Break
+#### Horizonal Line Break
 * This element represents a sectional break between paragraphs. It can be used as an indicator when changing a subject within as section.
 `<hr>`
 
