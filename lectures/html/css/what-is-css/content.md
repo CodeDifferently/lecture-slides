@@ -22,6 +22,20 @@
 
 
 -
+### Changing the Font Size in Word 
+* How do you change the font size for a Word document??
+
+-
+<img src="img/word-font-size.png">
+
+-
+### Changing the Font with CSS
+* Looking at the tag or selector we want to change, we find the property, "font-size" and change its value.
+<img src="img/css-font-size.png">
+
+
+
+-
 -
 #### CSS Syntax
 

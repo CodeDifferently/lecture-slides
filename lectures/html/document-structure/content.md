@@ -13,8 +13,8 @@
 
 -
 -
-### DOCTYPE
-* The first thing on an HTML page is the doctype, which tells the browser which version of the markup language the page is using.
+### <!DOCTYPE>
+* This declarations is the very first thing in the HTML document. It defines the document type.
 * <!DOCTYPE html>
 
 -
@@ -30,7 +30,7 @@
 
 -
 #### The `<html>` tag
-* Like a sandwich, the HTML document has opening and closing tags
+* This tag defines an HTML document
 * `<html>...</html>`
 * Everything in an HTML document is surrounded by <html> tag
 
@@ -110,7 +110,7 @@
 ```
 
 -
-#### Horizonal Line Break
+#### Horizontal Line Break
 * This element represents a sectional break between paragraphs. It can be used as an indicator when changing a subject within as section.
 `<hr>`
 
