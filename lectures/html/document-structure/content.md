@@ -30,9 +30,8 @@
 
 -
 #### The `<html>` tag
-* This tag defines an HTML document
+* This tag tells the browser this is an HTML document
 * `<html>...</html>`
-* Everything in an HTML document is surrounded by <html> tag
 
 ```HTML
 <!DOCTYPE html>
@@ -162,7 +161,7 @@
 #### Images
 * The image element has two required attributes: "src" and "alt"
 * "src" = Source and  specifies location of the image
-* "alt" = alternative text and give gives description of the image when the page load incorrectly
+* "alt" = alternative text and gives description of the image when the page load incorrectly
 
 ``` HTML
 <img src="image.jpg" alt="Evergreen Tree">
