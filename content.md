@@ -177,7 +177,7 @@
 
 ### CSS
 * [What is CSS?](lectures/html/css/what-is-css/lecture.html)
-* [Anatomy of CSS](lectures/html/css/anatomy-of-css/lecture.html)
+* [Anatomy of CSS](lectures/html/anatomy-of-css/lecture.html)
 
 ### JavaScript
 * [What is Javascript?](lectures/html/javascript/what-is-javascript/lecture.html)
@@ -194,7 +194,7 @@
 
 ### Wordpress
 * **The Fundamentals**
-    1. [What is wordpress?](lectures/wordpress/what-is-wordpress/lecture.html)
+    1. [What is WordPress?](lectures/wordpress/what-is-wordpress/lecture.html)
 
 * **Theme Development**
     1. [Creating Basic Theme](lectures/wordpress/theme-development/creating-basic-theme/lecture.html)
@@ -205,7 +205,7 @@
 
 <hr><hr><hr>
 
-### Cloud Infrastrcuture
+### Cloud Infrastructure
 
 #### AWS
 * [Hosting a static website from an S3 bucket](lectures/cloud/aws/s3-hosting-static-html/lecture.html)
