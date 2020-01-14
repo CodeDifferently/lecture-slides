@@ -177,7 +177,7 @@
 
 ### CSS
 * [What is CSS?](lectures/html/css/what-is-css/lecture.html)
-* [Anatomy of CSS](lectures/html/anatomy-of-css/lecture.html)
+* [Anatomy of CSS](lectures/html/css/anatomy-of-css/lecture.html)
 
 ### JavaScript
 * [What is Javascript?](lectures/html/javascript/what-is-javascript/lecture.html)
