@@ -47,12 +47,6 @@
 * A value indicated how you want to change the stylistic feature
 
 
--
--
-#### CSS Selectors
-* CSS selectors are used to select HTML elements based on their element name, id, class, attribute, and more
-
-
 
 -
 -
