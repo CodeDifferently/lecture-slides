@@ -164,7 +164,7 @@
 <hr><hr><hr>
 
 ### HTML
-* [What is html?](lectures/html/what-is-html/lecture.html)
+* [What is HTML?](lectures/html/what-is-html/lecture.html)
 * [HTML Document Structure](lectures/html/document-structure/lecture.html)
 * [Anatomy Of Html Tags](lectures/html/anatomy-of-html-tags/lecture.html)
 * [HTML Content Models](lectures/html/html-content-models/lecture.html)
@@ -177,6 +177,7 @@
 
 ### CSS
 * [What is CSS?](lectures/html/css/what-is-css/lecture.html)
+* [Anatomy of CSS Declarations](lectures/html/css/anatomy-of-css-declarations.html)
 
 ### JavaScript
 * [What is Javascript?](lectures/html/javascript/what-is-javascript/lecture.html)
