@@ -24,7 +24,7 @@
 ```
 -
 #### Styling of the Item Marker
-* The CSS list-style-type property is used to define the style of the list item marker
+* The CSS `list-style-type` attribute is used to define the style of the list item marker
 * Three different styles to choose: discs (bullets), circle (empty circle), and square (solid square)
 
 -
@@ -75,7 +75,7 @@
 
 -
 #### Styling of the Item Markers
-* The type attribute of the `<ol>` tag, specifies the type of the list item marker
+* The `type` attribute of the `<ol>` tag, specifies the type of the list item marker
 * List items can be numbered with numbers (default), uppercase and lowercase letters, and lowercase and uppercase roman numerals.
 
 
