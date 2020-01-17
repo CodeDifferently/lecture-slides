@@ -31,6 +31,7 @@
 -
 ### Changing the Font with CSS
 * Looking at the tag or selector we want to change, we find the property, "font-size" and change its value.
+
 <img src="img/css-font-size.png">
 
 
@@ -43,7 +44,7 @@
 
 * CSS selectors points to the HTML elements you want to style
 * A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces
-* A property indicates which stylistic features you want to change. Ex: Font, width, background color
+* A property indicates which stylistic features you want to change.
 * A value indicated how you want to change the stylistic feature
 
 
@@ -60,8 +61,8 @@ There are three ways to insert CSS
 -
 -
 #### External Style Sheet
-* Able to change the look of a page with just one file which is easy to maintain and saves time
-* Each page must include a reference to the external style sheet file inside the `<link>` element. The `<link>` element goes inside the `<head>` section
+* Using one file to change the look of the HTML document is more efficient.
+* Each page must include a reference to the external style sheet file inside the `<link>` element.
 * The style sheet file must be saved with a .css extension.
 
 
@@ -73,9 +74,9 @@ There are three ways to insert CSS
 
 -
 #### The rel, type, and href attributes
-* The "rel" attribute is mandatory and specifies the relationship between the current document and the linked document
-* The "type" attribute specifies the media type of the linked document
-* The "href" attribute specifies the location of the linked document
+* The `rel` attribute is mandatory and specifies the relationship between the current document and the linked document
+* The `type` attribute specifies the media type of the linked document
+* The `href` attribute specifies the location of the linked document
 
 
 
@@ -124,7 +125,7 @@ p {
 }
 ```
 
--
+
 -
 #### Id Selectors
 * The _id selector_ uses the _id attribute_ of an _HTML element_ to select a specific element
@@ -140,7 +141,7 @@ p {
 ```
 
 
--
+
 -
 #### Class Selectors
 * The _class selector_ selects elements with a specific class attribute
@@ -154,7 +155,7 @@ p {
 ```
 
 
--
+
 -
 #### Grouping Selectors
 * If you have multiple elements with the same style, you can group the selectors with a comma
@@ -168,7 +169,7 @@ h1, h2, p {
 ```
 
 
--
+
 -
 #### Descendant Selectors
 * _Descendant_ selectors (or _descendant combinator_) allow you to combine two or more selectors so you can be more specific
