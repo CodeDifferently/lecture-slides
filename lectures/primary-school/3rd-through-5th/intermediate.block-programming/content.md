@@ -10,32 +10,33 @@
 * Do you remember looking at our daily lives in blocks?
 <img src="img/block-life.png">
 
+-
+-
 
--
--
 ### What is a block??
 <p fragment="fade-in"> A block is a group of declarations and statements in source code structure.</p>
 
-<img src="img/sphero-block-code.png">
-
-
-
+<img src="img/sphero-block-code.png" height="100px">
 
 -
 -
+
 #### What is a function???
 <p fragment="fade-in"> A function is a collection of statements that are grouped together to perform an operation</p>
 
 <img src="img/sphero-function.png">
 
-
 -
+-
+
 #### What is a statement???
 <p fragment="fade-in"> A statement is a single line of code to perform a specific task</p>
 
-<img src="img/sphero-statemnt.png">
+<img src="img/sphero-statement.png">
 
 -
+-
+
 #### Sub-topic 1C
 * Discussion point 1C.1
 * Discussion point 1C.2
