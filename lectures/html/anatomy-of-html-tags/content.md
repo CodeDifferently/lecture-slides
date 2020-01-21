@@ -35,13 +35,13 @@
 -
 #### Attribute Values
 * Very specific information for a tag attribute
-* Should always be enclosed in double quotes or single quotes
+* Should always be enclosed in single or double quotations marks
 
 
 -
 ##### Example
-* <p  color="#ff0000"> paragraph will be red because of the attribute and value we gave it </p>
-* `<p color="#ff0000">`
+* `<p color="#ff0000">` paragraph will be red because of the attribute's value.
+
 
 
 -
