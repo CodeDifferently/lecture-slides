@@ -50,12 +50,12 @@
 
 -
 ## Algorithms
-* Students will learn how to effectively solve basic aglorithms.
-* Students will learn real-life examples of algorithms and their psuedo-code transliterations.
+* Students will learn how to effectively solve basic algorithms.
+* Students will learn real-life examples of algorithms and their pseudo-code transliterations.
 
 -
 ## White-boarding
-* Students will learn ubiquotous syntax (conventions) when expressing on a whiteboard
+* Students will learn ubiquitous syntax (conventions) when expressing on a whiteboard
 * Students will learn how to express pseudo-code using conventions
 * Students will learn how to build UMLs based on client specs
 
