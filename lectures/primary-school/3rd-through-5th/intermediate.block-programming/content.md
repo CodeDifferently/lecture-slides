@@ -6,9 +6,10 @@
 
 -
 -
+
 ### Do you remember???
 * Do you remember looking at our daily lives in blocks?
-<img src="img/block-life.png">
+<img src="img/code-blocks.png">
 
 -
 -
@@ -37,7 +38,7 @@
 -
 -
 
-#### Sub-topic 1C
+#### Circles and Degrees
 * Discussion point 1C.1
 * Discussion point 1C.2
 * Discussion point 1C.3
