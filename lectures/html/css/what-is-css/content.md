@@ -16,8 +16,7 @@
 -
 -
 ### What is CSS and why do we use it?
-* CSS stands for Cascading Style Sheets. They are stored in external CSS files
-* CSS describes how the HTML elements are to be styled
+* CSS stands for Cascading Style Sheets
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
 
