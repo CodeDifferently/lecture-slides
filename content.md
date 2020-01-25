@@ -168,7 +168,7 @@
 * [HTML Document Structure](lectures/html/document-structure/lecture.html)
 * [Anatomy Of Html Tags](lectures/html/anatomy-of-html-tags/lecture.html)
 * [HTML Content Models](lectures/html/html-content-models/lecture.html)
-* [Links](lectures/html/links.lecture.html)
+* [Links](lectures/html/links/lecture.html)
 * [Lists](lectures/html/lists/lecture.html)
 * [Tables - Basic Definitions](lectures/html/tables-basic-definitions/lecture.html)
 * [Tables - Enhanced Definitions](lectures/html/tables-enhanced-definitions/lecture.html)
