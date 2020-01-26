@@ -171,7 +171,6 @@
 * [Links](lectures/html/links/lecture.html)
 * [Lists](lectures/html/lists/lecture.html)
 * [Tables - Basic Definitions](lectures/html/tables-basic-definitions/lecture.html)
-* [Tables - Enhanced Definitions](lectures/html/tables-enhanced-definitions/lecture.html)
 * [Forms](lectures/html/forms/lecture.html)
 * [Beat Maker Lecture](lectures/html/beat-maker-lecture/lecture.html)
 
