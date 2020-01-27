@@ -9,7 +9,7 @@
 
 ### Do you remember???
 * Do you remember looking at our daily lives in blocks?
-<img src="img/code-blocks.png">
+<img src="img/code-blocks.png" align="center">
 
 -
 -
