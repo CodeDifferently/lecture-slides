@@ -32,7 +32,7 @@
 #### What is a statement???
 <p fragment="fade-in"> A statement is a single line of code to perform a specific task</p>
 
-<img src="img/sphero-statement.png">
+<img src="img/sphero-statement.png" height="300px">
 
 -
 -
@@ -41,13 +41,6 @@
 * Discussion point 1C.1
 * Discussion point 1C.2
 * Discussion point 1C.3
-
-
-
-
-
-
-
 
 
 
