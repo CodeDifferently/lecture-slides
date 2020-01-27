@@ -9,7 +9,6 @@
 
 ### Do you remember???
 * Do you remember looking at our daily lives in blocks?
-<img src="img/code-blocks.png" align="center">
 
 -
 -
@@ -17,7 +16,7 @@
 ### What is a block??
 <p fragment="fade-in"> A block is a group of declarations and statements in source code structure.</p>
 
-<img src="img/sphero-block-code.png" height="100px">
+<img src="img/sphero-block-code.png" height="300px">
 
 -
 -
