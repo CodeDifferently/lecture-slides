@@ -55,11 +55,11 @@
 -
 #### Squares
 * Can you guess how many degrees make up a square?
-<img src="https://i.ytimg.com/vi/rb8Y38eilRM/maxresdefault.jpg">
-<p fragment="fade-in"> 360 degrees </p>
+<p class=" fragment fade-in"> 360 degrees </p>
 
 
 -
+<img src="https://i.ytimg.com/vi/rb8Y38eilRM/maxresdefault.jpg">
 * A square is made up of 4 ninety degrees angles
 * 90 degrees angles look like a capital letter "L"
 
