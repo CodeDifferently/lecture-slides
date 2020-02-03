@@ -109,6 +109,10 @@ There are three ways to insert CSS
 ```
 
 
+-
+-
+
+## CSS selectors
 
 
 -
@@ -182,10 +186,11 @@ ul li {
 ```
 
 
+-
+-
 
--
--
-### How CSS is applied
+
+### Rules of CSS
 * There are a few rules that determine how styles are applied to your HTML
 * They all work together and can be combined in interesting ways
 

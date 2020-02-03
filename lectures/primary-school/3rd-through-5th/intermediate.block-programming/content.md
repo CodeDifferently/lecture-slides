@@ -34,43 +34,34 @@
 
 <img src="img/sphero-statement.png" height="100px">
 
--
+
 -
 
 #### Circles and Degrees
-* Discussion point 1C.1
-* Discussion point 1C.2
-* Discussion point 1C.3
-
-
 
 
 -
--
-### Topic 2
-* Sub-topic 2A
-* Sub-topic 2B
-* Sub-topic 2C
-
--
-#### Sub-topic 2A
-* Discussion point 2A.1
-* Discussion point 2A.2
-* Discussion point 2A.3
+### Do you know how many degrees are in a circle?
+<p fragment="fade-in"> 360 degrees </p>
 
 
 -
-#### Sub-topic 2B
-* Discussion point 2B.1
-* Discussion point 2B.2
-* Discussion point 2B.3
+#### What are degrees?
+* Degrees are a unit of measurement.
+* Degrees are used to measure angles and circles.
 
 
 -
-#### Sub-topic 2C
-* Discussion point 2C.1
-* Discussion point 2C.2
-* Discussion point 2C.3
+#### Squares
+* Can you guess how many degrees make up a square?
+<img src="https://i.ytimg.com/vi/rb8Y38eilRM/maxresdefault.jpg">
+<p fragment="fade-in"> 360 degrees </p>
+
+
+-
+* A square is made up of 4 ninety degrees angles
+* 90 degrees angles look like a capital letter "L"
+
 
 
 
