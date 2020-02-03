@@ -37,13 +37,13 @@
 
 -
 
-#### Circles and Degrees
+## Circles and Degrees
 
 
 -
 ### Do you know how many degrees are in a circle?
-<p class="fragment fade-in"> 360 degrees </p>
-<img src="https://lh3.googleusercontent.com/proxy/MGLeUdMHO3iJ9bRVno9eKX6Z6buoRXdPM3Cx0pvvoXx4F2j3p22TJMApZ1Bo54ydf-ABycdnEmMhfG9Pro8A9CnomZ40VI7DL0Lr">
+<p class="fragment fade-up"> 360 degrees </p>
+<img src="https://i.stack.imgur.com/Q4nm0.png">
 
 
 -
@@ -55,7 +55,7 @@
 -
 #### Squares
 * Can you guess how many degrees make up a square?
-<p class=" fragment fade-in"> 360 degrees </p>
+<p class="fragment fade-up"> 360 degrees </p>
 
 
 -

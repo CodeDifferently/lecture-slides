@@ -3,13 +3,13 @@
 
 
 
- 
+
 
 
 
 -
 -
-## Steps to Succcessfully Express
+## Steps to Successfully Express
 * Requirement Gathering
 * Pictorial Structures
 * Whiteboarding
@@ -34,7 +34,7 @@
 -
 -
 ### Understand Language
-* Understanding the language 
+* Understanding the language
 
 -
 ### Sample
@@ -43,7 +43,7 @@
 * Seller has prepaid the property taxes for the entire tax year.
 * Buyer will be moving into the property four months prior to the end of the tax year.
 * Seller must pay off an outstanding mortgage lien of $350,000, and a mechanic's lien of $2,500.
-* Seller must also pay the brokerage fee to the licensee who brought the ready, willing, and able buyer to the transaction. In the closing statement prepared by the Settlement Officer, which of the following will be a credit to the Seller? 
+* Seller must also pay the brokerage fee to the licensee who brought the ready, willing, and able buyer to the transaction. In the closing statement prepared by the Settlement Officer, which of the following will be a credit to the Seller?
 
 
 
