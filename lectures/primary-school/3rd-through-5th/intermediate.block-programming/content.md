@@ -43,6 +43,7 @@
 -
 ### Do you know how many degrees are in a circle?
 <p fragment="fade-in"> 360 degrees </p>
+<img src="https://lh3.googleusercontent.com/proxy/MGLeUdMHO3iJ9bRVno9eKX6Z6buoRXdPM3Cx0pvvoXx4F2j3p22TJMApZ1Bo54ydf-ABycdnEmMhfG9Pro8A9CnomZ40VI7DL0Lr">
 
 
 -
