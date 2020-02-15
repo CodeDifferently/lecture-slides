@@ -66,60 +66,31 @@
 
 
 
-
-
-
-
-
-
-
+-
+-
+### Do you know what a loop is?
+<p class="fragment fade-in"> A loop is the action of doing something over and over. </p>
 
 
 
 -
--
-### Topic 3
-* Sub-topic 3A
-* Sub-topic 3B
-* Sub-topic 3C
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwjXC2jQdk7ZTXS9AUo2_kngG6z_VkRXQmspTmM9OWiSnic6eY">
 
 
 -
-#### Sub-topic 3A
-* Discussion point 3A.1
-* Discussion point 3A.2
-* Discussion point 3A.3
+* In our daily lives, there are many tasks that include steps that we need to repeat over and over again.
+* What tasks can you think of that has steps that repeat over and over?
+* Name a few...
 
 
 -
-#### Sub-topic 3B
-* Discussion point 3B.1
-* Discussion point 3B.2
-* Discussion point 3B.3
+<img class="fragment fade-in" src="https://www.houstonspediatricdentist.com/blog/wp-content/uploads/2017/09/P6Dqq4p-643x375.jpg">
 
-
--
-#### Sub-topic 3C
-* Discussion point 3C.1
-* Discussion point 3C.2
-* Discussion point 3C.3
-
-
-
-
-
-
-
-
-
-
+<img class="fragment fade-in" src="https://image.shutterstock.com/image-photo/children-walk-stair-260nw-584177701.jpg">
 
 
 
 -
--
-## Lecture Summary
-* Topic 1 Summary
-* Topic 2 Summary
-* Topic 3 Summary
+Now think of a shape that we can use a loop for.
+How about a......
+<img class="fragment fade-up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png">
