@@ -89,5 +89,10 @@
 
 -
 * Now think of a shape that we can use a loop for.
-* How about a......
-<img class="fragment fade-up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png" height="300px" width="300px">
+* How about a 
+<img class="fragment fade-up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png" height="300px" width="300px"> ?
+
+-
+* A square is made up of four 90° angles.
+<img src="https://i.pinimg.com/originals/c8/48/52/c84852c9358f9c73e16ac26c66be97b0.jpg">
+* Let's program our Sphero to make a square!
