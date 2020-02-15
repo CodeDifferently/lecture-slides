@@ -71,10 +71,7 @@
 ### Do you know what a loop is?
 <p class="fragment fade-in"> A loop is the action of doing something over and over. </p>
 
-
-
--
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwjXC2jQdk7ZTXS9AUo2_kngG6z_VkRXQmspTmM9OWiSnic6eY">
+<img class="fragment fade-up" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwjXC2jQdk7ZTXS9AUo2_kngG6z_VkRXQmspTmM9OWiSnic6eY">
 
 
 -
@@ -91,6 +88,6 @@
 
 
 -
-Now think of a shape that we can use a loop for.
-How about a......
-<img class="fragment fade-up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png">
+* Now think of a shape that we can use a loop for.
+* How about a......
+<img class="fragment fade-up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png" height="300px" width="300px">
